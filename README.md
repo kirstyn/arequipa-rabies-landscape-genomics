@@ -31,6 +31,5 @@ If you use this repository, please cite the associated preprint:
 
 ## Contact
 For questions regarding the repository, please contact:
-**Kirstyn Brunker**  
-University of Glasgow  
+**Dr Kirstyn Brunker** , University of Glasgow  
 ✉ *email address* kirstyn.brunker@glasgow.ac.uk
