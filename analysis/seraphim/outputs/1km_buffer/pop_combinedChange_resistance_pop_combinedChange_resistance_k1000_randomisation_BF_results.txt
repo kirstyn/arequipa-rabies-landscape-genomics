@@ -1,0 +1,3 @@
+BFs_Q_LR1_randomisation_1	BFs_Q_LR2_randomisation_1
+null_raster	NA	NA
+per_pop_2025_CN_100m_R2025A_v1_R	0.6129	0.8182

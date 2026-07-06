@@ -1,0 +1,582 @@
+IQ-TREE multicore version 2.0.3 for Linux 64-bit built Dec 20 2020
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    alpha2.cvr.gla.ac.uk (AVX512, FMA3, 4031 GB RAM)
+Command: iqtree -s AM5_glycoprotein_aln.fa -m GTR+G -bb 1000 -alrt 1000 -o KF154998 -nt 2
+Seed:    433067 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Apr 24 23:38:58 2026
+Kernel:  AVX+FMA - 2 threads (224 CPU cores detected)
+
+Reading alignment file AM5_glycoprotein_aln.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 202 sequences with 1564 columns, 136 distinct patterns
+38 parsimony-informative, 154 singleton sites, 1372 constant sites
+           Gap/Ambiguity  Composition  p-value
+   1  KF154998     0.00%    passed     80.90%
+   2  PP965367     0.13%    passed     99.94%
+   3  KU938752     0.06%    passed     99.92%
+   4  KU938829     0.00%    passed     99.92%
+   5  PP965362     0.13%    passed     99.97%
+   6  PP965358     0.00%    passed     99.99%
+   7  PP965366     0.13%    passed     99.97%
+   8  PP965364    27.24%    passed     87.30%
+   9  PP965357     0.00%    passed     99.97%
+  10  PP965371     0.19%    passed     99.98%
+  11  PP965368     0.00%    passed     99.99%
+  12  PP965352     0.13%    passed     99.90%
+  13  PP965374     0.06%    passed     99.98%
+  14  PP965353     0.00%    passed    100.00%
+  15  PP965348     0.13%    passed     99.97%
+  16  PP965369     0.00%    passed     99.97%
+  17  PP965345    32.16%    passed     85.31%
+  18  PP965365    15.28%    passed     97.51%
+  19  PP965347     0.00%    passed     99.97%
+  20  PP965361     0.00%    passed     99.98%
+  21  PP965370    27.24%    passed     87.77%
+  22  PP965373     0.00%    passed     99.94%
+  23  PP965349    27.24%    passed     87.77%
+  24  PP965356    27.24%    passed     87.77%
+  25  PP965360     1.73%    passed     99.97%
+  26  PP965351    27.24%    passed     87.77%
+  27  PP965372     0.00%    passed     99.97%
+  28  PP965355     0.13%    passed     99.90%
+  29  PP965354    27.24%    passed     85.23%
+  30  PP965363    27.24%    passed     85.23%
+  31  PP965359     0.06%    passed     99.92%
+  32  PP965350    27.24%    passed     87.77%
+  33  PP965344    27.24%    passed     87.30%
+  34  PP965346     0.00%    passed     99.97%
+  35  PP965343    27.24%    passed     87.77%
+  36  10_2020      0.00%    passed     99.97%
+  37  10_2021      0.00%    passed     99.97%
+  38  100_2023     0.00%    passed    100.00%
+  39  101_2017     0.00%    passed     99.93%
+  40  103_2022     0.00%    passed     99.97%
+  41  107_2018     0.13%    passed     99.94%
+  42  107_2021     0.00%    passed     99.98%
+  43  1101786      0.00%    passed     99.94%
+  44  1101787      0.06%    passed     99.92%
+  45  112_2017     0.00%    passed     99.98%
+  46  114_2015     0.00%    passed     99.97%
+  47  12_2017      0.00%    passed     99.99%
+  48  1203037      0.00%    passed     99.92%
+  49  121_2019     0.00%    passed     99.97%
+  50  126_2021     0.13%    passed     99.97%
+  51  130_2016     0.00%    passed     99.99%
+  52  131_2019     0.00%    passed     99.99%
+  53  140_2018     0.00%    passed     99.99%
+  54  140_2020    15.28%    passed     96.65%
+  55  145_2017     0.00%    passed     99.99%
+  56  145_2022     0.00%    passed     99.98%
+  57  146_2021     0.00%    passed     99.97%
+  58  147_2021    27.24%    passed     87.77%
+  59  147_2022    15.28%    passed     97.51%
+  60  149_2020     0.00%    passed     99.97%
+  61  15_2021      0.00%    passed     99.88%
+  62  151_2024     0.00%    passed     99.98%
+  63  152_2023     0.00%    passed    100.00%
+  64  158_2022     0.00%    passed     99.97%
+  65  159_2017     0.00%    passed     99.98%
+  66  16_2021      0.00%    passed     99.97%
+  67  162_2018     0.00%    passed     99.97%
+  68  162_2024     0.00%    passed     99.97%
+  69  166_2016     0.00%    passed     99.99%
+  70  172_2022     0.19%    passed     99.98%
+  71  173_2022     0.00%    passed     99.99%
+  72  175_2023     0.00%    passed     99.97%
+  73  182_2019     0.00%    passed     99.98%
+  74  183_2019     0.00%    passed     99.97%
+  75  183_2023     0.00%    passed     99.99%
+  76  186_2018     0.00%    passed    100.00%
+  77  2_2017       0.00%    passed     99.97%
+  78  201_2017     0.00%    passed     99.97%
+  79  202_2021    27.24%    passed     87.30%
+  80  209_2018     0.00%    passed     99.99%
+  81  213_2021     0.00%    passed     99.97%
+  82  218_2023     0.00%    passed     99.97%
+  83  219_2022     0.00%    passed     99.97%
+  84  219_2024     0.00%    passed     86.34%
+  85  22_2016      0.00%    passed     99.98%
+  86  22_2018      0.00%    passed     99.99%
+  87  225_2017     0.00%    passed     99.97%
+  88  225_2019     0.00%    passed     99.95%
+  89  225_2023     0.00%    passed     99.97%
+  90  227_2019     0.00%    passed    100.00%
+  91  23_2020      4.92%    passed     91.10%
+  92  231_2021     0.06%    passed     99.98%
+  93  232_2023     0.00%    passed     99.97%
+  94  234_2016     0.00%    passed     99.99%
+  95  236_2019     0.00%    passed     99.97%
+  96  236_2022    32.16%    passed     85.31%
+  97  24_2019      0.00%    passed     99.99%
+  98  240_2019     0.00%    passed     99.97%
+  99  240_2023     0.00%    passed     99.99%
+ 100  242_2019     0.00%    passed     99.97%
+ 101  244_2019     0.00%    passed     99.93%
+ 102  246_2022     0.00%    passed     99.97%
+ 103  247_2018     0.00%    passed     99.99%
+ 104  25_2020      4.92%    passed     91.10%
+ 105  250_2021    27.24%    passed     85.23%
+ 106  251_2021    27.24%    passed     85.23%
+ 107  255_2019     0.00%    passed     99.99%
+ 108  259_2017     0.00%    passed     99.99%
+ 109  266_2022     0.00%    passed    100.00%
+ 110  270_2023     0.00%    passed     99.97%
+ 111  272_2017     0.00%    passed     99.99%
+ 112  272_2019     0.00%    passed     99.92%
+ 113  273_2023     0.00%    passed     99.97%
+ 114  275_2017     0.00%    passed    100.00%
+ 115  279_2017     0.00%    passed     99.97%
+ 116  280_2022     0.00%    passed    100.00%
+ 117  286_2022     0.00%    passed     99.97%
+ 118  289_2019     0.00%    passed     99.98%
+ 119  29_2021      0.00%    passed     99.97%
+ 120  291_2016     0.00%    passed     99.93%
+ 121  297_2023     0.00%    passed    100.00%
+ 122  298_2017     0.00%    passed     99.97%
+ 123  30_2021      0.06%    passed     99.92%
+ 124  30_2023      4.92%    passed     90.27%
+ 125  302_2016     0.00%    passed     99.94%
+ 126  302_2017     0.00%    passed     99.98%
+ 127  31_2021      0.00%    passed     99.97%
+ 128  312_2019     0.00%    passed     99.95%
+ 129  315_2017     0.00%    passed     99.97%
+ 130  319_2017     4.92%    passed     91.10%
+ 131  32_2016      0.00%    passed     99.99%
+ 132  320_2019     0.00%    passed     99.84%
+ 133  321_2023     4.92%    passed     91.82%
+ 134  333_2018     0.00%    passed     99.91%
+ 135  336_2019     0.00%    passed     99.97%
+ 136  34_2021     27.24%    passed     87.77%
+ 137  348_2023     0.00%    passed     99.97%
+ 138  35_2018      0.00%    passed     99.97%
+ 139  3553_2010    0.13%    passed     99.90%
+ 140  357_2016     0.00%    passed     99.99%
+ 141  358_2023     0.00%    passed     99.97%
+ 142  367_2015     0.00%    passed     99.97%
+ 143  374_2018     0.00%    passed     99.98%
+ 144  375_2017     0.13%    passed     99.90%
+ 145  375_2018     0.00%    passed     99.98%
+ 146  386_2016     0.00%    passed     99.98%
+ 147  4_2023       0.00%    passed     99.99%
+ 148  40_2021      0.00%    passed    100.00%
+ 149  40_2025      4.92%    passed     90.15%
+ 150  402_2017     0.00%    passed     99.97%
+ 151  41_2020      4.92%    passed     91.10%
+ 152  41_2024      0.00%    passed     99.97%
+ 153  42_2020      0.00%    passed     99.99%
+ 154  435_2018     0.00%    passed     99.97%
+ 155  44_2016      0.00%    passed     99.99%
+ 156  442_2016     0.00%    passed     99.99%
+ 157  447_2018     0.00%    passed     99.98%
+ 158  46_2017      0.00%    passed     99.99%
+ 159  46_2019      0.00%    passed     99.98%
+ 160  462_2016     0.00%    passed     99.99%
+ 161  468_2016     0.00%    passed     99.97%
+ 162  47_2019      0.00%    passed     99.91%
+ 163  48_2019      0.00%    passed     99.97%
+ 164  480_2016     0.00%    passed     99.94%
+ 165  481_2016     0.00%    passed     99.87%
+ 166  485_2016     0.00%    passed     99.99%
+ 167  495_2016     0.00%    passed     99.99%
+ 168  51_2018      0.00%    passed     99.97%
+ 169  52_2018      4.92%    passed     91.10%
+ 170  52_2021     27.24%    passed     87.77%
+ 171  534_2016     0.00%    passed     99.99%
+ 172  54_2024      0.00%    passed     99.97%
+ 173  56_2021      0.00%    passed     99.99%
+ 174  56_2023      0.00%    passed     99.99%
+ 175  560_2015     0.13%    passed     99.97%
+ 176  562_2016     0.00%    passed     99.98%
+ 177  563_2016     0.00%    passed     99.99%
+ 178  57_2017      0.00%    passed     99.98%
+ 179  571_2016     0.00%    passed     99.99%
+ 180  576_2016     0.00%    passed     99.99%
+ 181  609_2015     0.00%    passed     99.99%
+ 182  61_2021      0.00%    passed     99.97%
+ 183  653_2015     0.00%    passed     99.99%
+ 184  68_2021     27.24%    passed     87.77%
+ 185  69_2016      0.00%    passed     99.98%
+ 186  69_2022      0.00%    passed     99.86%
+ 187  696_2015     4.92%    passed     89.51%
+ 188  699_2015     4.92%    passed     91.10%
+ 189  704_2015     0.00%    passed     99.99%
+ 190  71_2021     27.24%    passed     87.77%
+ 191  711_2015     0.00%    passed    100.00%
+ 192  73_2015      0.00%    passed     99.99%
+ 193  73_2021     27.24%    passed     87.77%
+ 194  75_2021     16.50%    passed     76.38%
+ 195  88_2019      0.00%    passed     99.99%
+ 196  89_2018      0.00%    passed     99.97%
+ 197  9_2019       0.00%    passed     99.97%
+ 198  90_2021      0.00%    passed     99.97%
+ 199  91_2017      0.00%    passed     99.99%
+ 200  92_2018      0.00%    passed     99.97%
+ 201  93_2018      0.00%    passed     99.99%
+ 202  97_2017      0.00%    passed     99.99%
+****  TOTAL        3.45%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: 107_2018 is identical to PP965367 but kept for subsequent analysis
+NOTE: 1101787 is identical to KU938752 but kept for subsequent analysis
+NOTE: 1203037 is identical to KU938829 but kept for subsequent analysis
+NOTE: 12_2017 is identical to PP965358 but kept for subsequent analysis
+NOTE: 126_2021 is identical to PP965366 but kept for subsequent analysis
+NOTE: PP965344 is identical to PP965364 but kept for subsequent analysis
+NOTE: PP965369 is identical to PP965357 but kept for subsequent analysis
+NOTE: 172_2022 is identical to PP965371 but kept for subsequent analysis
+NOTE: 173_2022 is identical to PP965368 but kept for subsequent analysis
+NOTE: 375_2017 is identical to PP965352 but kept for subsequent analysis
+NOTE: 231_2021 is identical to PP965374 but kept for subsequent analysis
+NOTE: 100_2023 is identical to PP965353 but kept for subsequent analysis
+NOTE: 560_2015 is identical to PP965348 but kept for subsequent analysis
+NOTE: 236_2022 is identical to PP965345 but kept for subsequent analysis
+NOTE: 147_2022 is identical to PP965365 but kept for subsequent analysis
+NOTE: PP965372 is identical to PP965347 but kept for subsequent analysis
+NOTE: 145_2022 is identical to PP965361 but kept for subsequent analysis
+NOTE: PP965349 is identical to PP965370 but kept for subsequent analysis
+NOTE: 1101786 is identical to PP965373 but kept for subsequent analysis
+NOTE: 3553_2010 is identical to PP965355 but kept for subsequent analysis
+NOTE: PP965363 is identical to PP965354 but kept for subsequent analysis
+NOTE: 30_2021 is identical to PP965359 but kept for subsequent analysis
+NOTE: 159_2017 is identical to 112_2017 but kept for subsequent analysis
+NOTE: 121_2019 is identical to 114_2015 but kept for subsequent analysis
+NOTE: 183_2019 is identical to 162_2018 but kept for subsequent analysis
+NOTE: 302_2017 is identical to 182_2019 but kept for subsequent analysis
+NOTE: 312_2019 is identical to 225_2019 but kept for subsequent analysis
+NOTE: 270_2023 is identical to 225_2023 but kept for subsequent analysis
+NOTE: 319_2017 is identical to 23_2020 but kept for subsequent analysis
+NOTE: 280_2022 is identical to 266_2022 but kept for subsequent analysis
+NOTE: 89_2018 is identical to 402_2017 but kept for subsequent analysis
+NOTE: 100 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: 130_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 131_2019 (identical to PP965358) is ignored but added at the end
+NOTE: 140_2018 (identical to PP965358) is ignored but added at the end
+NOTE: 145_2017 (identical to PP965358) is ignored but added at the end
+NOTE: 166_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 209_2018 (identical to PP965358) is ignored but added at the end
+NOTE: 22_2018 (identical to PP965358) is ignored but added at the end
+NOTE: 234_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 24_2019 (identical to PP965358) is ignored but added at the end
+NOTE: 247_2018 (identical to PP965358) is ignored but added at the end
+NOTE: 255_2019 (identical to PP965358) is ignored but added at the end
+NOTE: 259_2017 (identical to PP965358) is ignored but added at the end
+NOTE: 272_2017 (identical to PP965358) is ignored but added at the end
+NOTE: 32_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 357_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 44_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 442_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 46_2017 (identical to PP965358) is ignored but added at the end
+NOTE: 462_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 485_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 495_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 534_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 56_2021 (identical to PP965358) is ignored but added at the end
+NOTE: 563_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 571_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 576_2016 (identical to PP965358) is ignored but added at the end
+NOTE: 609_2015 (identical to PP965358) is ignored but added at the end
+NOTE: 653_2015 (identical to PP965358) is ignored but added at the end
+NOTE: 704_2015 (identical to PP965358) is ignored but added at the end
+NOTE: 73_2015 (identical to PP965358) is ignored but added at the end
+NOTE: 88_2019 (identical to PP965358) is ignored but added at the end
+NOTE: 91_2017 (identical to PP965358) is ignored but added at the end
+NOTE: 93_2018 (identical to PP965358) is ignored but added at the end
+NOTE: 97_2017 (identical to PP965358) is ignored but added at the end
+NOTE: 202_2021 (identical to PP965364) is ignored but added at the end
+NOTE: 146_2021 (identical to PP965357) is ignored but added at the end
+NOTE: 149_2020 (identical to PP965357) is ignored but added at the end
+NOTE: 158_2022 (identical to PP965357) is ignored but added at the end
+NOTE: 218_2023 (identical to PP965357) is ignored but added at the end
+NOTE: 236_2019 (identical to PP965357) is ignored but added at the end
+NOTE: 279_2017 (identical to PP965357) is ignored but added at the end
+NOTE: 31_2021 (identical to PP965357) is ignored but added at the end
+NOTE: 336_2019 (identical to PP965357) is ignored but added at the end
+NOTE: 348_2023 (identical to PP965357) is ignored but added at the end
+NOTE: 358_2023 (identical to PP965357) is ignored but added at the end
+NOTE: 48_2019 (identical to PP965357) is ignored but added at the end
+NOTE: 54_2024 (identical to PP965357) is ignored but added at the end
+NOTE: 240_2023 (identical to PP965368) is ignored but added at the end
+NOTE: 40_2021 (identical to PP965353) is ignored but added at the end
+NOTE: PP965346 (identical to PP965347) is ignored but added at the end
+NOTE: 10_2020 (identical to PP965347) is ignored but added at the end
+NOTE: 10_2021 (identical to PP965347) is ignored but added at the end
+NOTE: 103_2022 (identical to PP965347) is ignored but added at the end
+NOTE: 16_2021 (identical to PP965347) is ignored but added at the end
+NOTE: 175_2023 (identical to PP965347) is ignored but added at the end
+NOTE: 201_2017 (identical to PP965347) is ignored but added at the end
+NOTE: 219_2022 (identical to PP965347) is ignored but added at the end
+NOTE: 225_2017 (identical to PP965347) is ignored but added at the end
+NOTE: 232_2023 (identical to PP965347) is ignored but added at the end
+NOTE: 246_2022 (identical to PP965347) is ignored but added at the end
+NOTE: 286_2022 (identical to PP965347) is ignored but added at the end
+NOTE: 29_2021 (identical to PP965347) is ignored but added at the end
+NOTE: 35_2018 (identical to PP965347) is ignored but added at the end
+NOTE: 51_2018 (identical to PP965347) is ignored but added at the end
+NOTE: 61_2021 (identical to PP965347) is ignored but added at the end
+NOTE: 90_2021 (identical to PP965347) is ignored but added at the end
+NOTE: PP965356 (identical to PP965370) is ignored but added at the end
+NOTE: PP965351 (identical to PP965370) is ignored but added at the end
+NOTE: PP965350 (identical to PP965370) is ignored but added at the end
+NOTE: PP965343 (identical to PP965370) is ignored but added at the end
+NOTE: 147_2021 (identical to PP965370) is ignored but added at the end
+NOTE: 34_2021 (identical to PP965370) is ignored but added at the end
+NOTE: 52_2021 (identical to PP965370) is ignored but added at the end
+NOTE: 68_2021 (identical to PP965370) is ignored but added at the end
+NOTE: 71_2021 (identical to PP965370) is ignored but added at the end
+NOTE: 73_2021 (identical to PP965370) is ignored but added at the end
+NOTE: 250_2021 (identical to PP965354) is ignored but added at the end
+NOTE: 251_2021 (identical to PP965354) is ignored but added at the end
+NOTE: 22_2016 (identical to 112_2017) is ignored but added at the end
+NOTE: 386_2016 (identical to 112_2017) is ignored but added at the end
+NOTE: 69_2016 (identical to 112_2017) is ignored but added at the end
+NOTE: 162_2024 (identical to 114_2015) is ignored but added at the end
+NOTE: 213_2021 (identical to 114_2015) is ignored but added at the end
+NOTE: 240_2019 (identical to 114_2015) is ignored but added at the end
+NOTE: 242_2019 (identical to 114_2015) is ignored but added at the end
+NOTE: 41_2024 (identical to 114_2015) is ignored but added at the end
+NOTE: 2_2017 (identical to 162_2018) is ignored but added at the end
+NOTE: 298_2017 (identical to 162_2018) is ignored but added at the end
+NOTE: 315_2017 (identical to 162_2018) is ignored but added at the end
+NOTE: 435_2018 (identical to 162_2018) is ignored but added at the end
+NOTE: 468_2016 (identical to 162_2018) is ignored but added at the end
+NOTE: 9_2019 (identical to 162_2018) is ignored but added at the end
+NOTE: 92_2018 (identical to 162_2018) is ignored but added at the end
+NOTE: 374_2018 (identical to 182_2019) is ignored but added at the end
+NOTE: 375_2018 (identical to 182_2019) is ignored but added at the end
+NOTE: 46_2019 (identical to 182_2019) is ignored but added at the end
+NOTE: 562_2016 (identical to 182_2019) is ignored but added at the end
+NOTE: 52_2018 (identical to 23_2020) is ignored but added at the end
+NOTE: 699_2015 (identical to 23_2020) is ignored but added at the end
+NOTE: 297_2023 (identical to 266_2022) is ignored but added at the end
+Alignment was printed to AM5_glycoprotein_aln.fa.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to AM5_glycoprotein_aln.fa.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.004 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 433067)...
+
+NOTE: 2 MB RAM (0 GB) is required!
+WARNING: Number of threads seems too high for short alignments. Use -nt AUTO to determine best number of threads.
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3434.761
+2. Current log-likelihood: -3331.507
+3. Current log-likelihood: -3331.085
+Optimal log-likelihood: -3331.071
+Rate parameters:  A-C: 2.49584  A-G: 11.10463  A-T: 0.60770  C-G: 0.76411  C-T: 9.91397  G-T: 1.00000
+Base frequencies:  A: 0.278  C: 0.220  G: 0.245  T: 0.257
+Gamma shape alpha: 0.387
+Parameters optimization took 3 rounds (0.123 sec)
+Computing ML distances based on estimated model parameters... 0.050 sec
+Computing BIONJ tree...
+0.005 seconds
+Log-likelihood of BIONJ tree: -3349.121
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.462 second
+Computing log-likelihood of 98 initial trees ... 0.300 seconds
+Current best score: -3331.070
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3331.041
+BETTER TREE FOUND at iteration 2: -3331.041
+BETTER TREE FOUND at iteration 4: -3331.041
+BETTER TREE FOUND at iteration 6: -3331.040
+Iteration 10 / LogL: -3331.042 / Time: 0h:0m:1s
+BETTER TREE FOUND at iteration 15: -3331.038
+Iteration 20 / LogL: -3331.041 / Time: 0h:0m:2s
+Finish initializing candidate tree set (20)
+Current best tree score: -3331.038 / CPU time: 2.361
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -3344.326 / Time: 0h:0m:3s (0h:0m:10s left)
+Iteration 40 / LogL: -3331.057 / Time: 0h:0m:4s (0h:0m:9s left)
+Iteration 50 / LogL: -3358.857 / Time: 0h:0m:5s (0h:0m:7s left)
+Log-likelihood cutoff on original alignment: -3357.689
+Iteration 60 / LogL: -3331.055 / Time: 0h:0m:7s (0h:0m:6s left)
+Iteration 70 / LogL: -3345.638 / Time: 0h:0m:8s (0h:0m:5s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 78: -3330.935
+Iteration 80 / LogL: -3331.055 / Time: 0h:0m:10s (0h:0m:12s left)
+Iteration 90 / LogL: -3331.056 / Time: 0h:0m:11s (0h:0m:11s left)
+Iteration 100 / LogL: -3330.959 / Time: 0h:0m:12s (0h:0m:9s left)
+Log-likelihood cutoff on original alignment: -3357.730
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.894
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -3331.094 / Time: 0h:0m:14s (0h:0m:11s left)
+Iteration 120 / LogL: -3330.971 / Time: 0h:0m:15s (0h:0m:10s left)
+Iteration 130 / LogL: -3330.955 / Time: 0h:0m:16s (0h:0m:8s left)
+Iteration 140 / LogL: -3346.869 / Time: 0h:0m:17s (0h:0m:7s left)
+Iteration 150 / LogL: -3330.965 / Time: 0h:0m:19s (0h:0m:6s left)
+Log-likelihood cutoff on original alignment: -3358.557
+Iteration 160 / LogL: -3338.869 / Time: 0h:0m:20s (0h:0m:5s left)
+Iteration 170 / LogL: -3330.962 / Time: 0h:0m:22s (0h:0m:3s left)
+Iteration 180 / LogL: -3338.718 / Time: 0h:0m:23s (0h:0m:2s left)
+BETTER TREE FOUND at iteration 183: -3330.935
+Iteration 190 / LogL: -3330.944 / Time: 0h:0m:25s (0h:0m:12s left)
+Iteration 200 / LogL: -3330.942 / Time: 0h:0m:26s (0h:0m:11s left)
+Log-likelihood cutoff on original alignment: -3360.400
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.959
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -3331.080 / Time: 0h:0m:28s (0h:0m:12s left)
+Iteration 220 / LogL: -3331.084 / Time: 0h:0m:30s (0h:0m:11s left)
+Iteration 230 / LogL: -3330.950 / Time: 0h:0m:31s (0h:0m:9s left)
+Iteration 240 / LogL: -3330.951 / Time: 0h:0m:33s (0h:0m:8s left)
+Iteration 250 / LogL: -3331.085 / Time: 0h:0m:35s (0h:0m:7s left)
+Log-likelihood cutoff on original alignment: -3360.481
+Iteration 260 / LogL: -3338.727 / Time: 0h:0m:37s (0h:0m:5s left)
+Iteration 270 / LogL: -3333.757 / Time: 0h:0m:39s (0h:0m:4s left)
+Iteration 280 / LogL: -3336.416 / Time: 0h:0m:40s (0h:0m:2s left)
+Iteration 290 / LogL: -3330.954 / Time: 0h:0m:42s (0h:0m:1s left)
+Iteration 300 / LogL: -3330.965 / Time: 0h:0m:44s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3360.655
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.962
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -3337.231 / Time: 0h:0m:46s (0h:0m:13s left)
+Iteration 320 / LogL: -3330.966 / Time: 0h:0m:48s (0h:0m:12s left)
+Iteration 330 / LogL: -3330.963 / Time: 0h:0m:49s (0h:0m:10s left)
+Iteration 340 / LogL: -3330.961 / Time: 0h:0m:51s (0h:0m:9s left)
+Iteration 350 / LogL: -3331.076 / Time: 0h:0m:53s (0h:0m:7s left)
+Log-likelihood cutoff on original alignment: -3360.655
+Iteration 360 / LogL: -3330.953 / Time: 0h:0m:55s (0h:0m:6s left)
+Iteration 370 / LogL: -3330.949 / Time: 0h:0m:57s (0h:0m:4s left)
+Iteration 380 / LogL: -3330.959 / Time: 0h:0m:59s (0h:0m:3s left)
+Iteration 390 / LogL: -3338.448 / Time: 0h:1m:1s (0h:0m:1s left)
+Iteration 400 / LogL: -3330.945 / Time: 0h:1m:3s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3360.481
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.967
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -3330.948 / Time: 0h:1m:6s (0h:0m:14s left)
+Iteration 420 / LogL: -3330.953 / Time: 0h:1m:8s (0h:0m:13s left)
+Iteration 430 / LogL: -3331.075 / Time: 0h:1m:10s (0h:0m:11s left)
+Iteration 440 / LogL: -3330.949 / Time: 0h:1m:12s (0h:0m:9s left)
+Iteration 450 / LogL: -3330.945 / Time: 0h:1m:14s (0h:0m:8s left)
+Log-likelihood cutoff on original alignment: -3361.317
+Iteration 460 / LogL: -3330.969 / Time: 0h:1m:17s (0h:0m:6s left)
+Iteration 470 / LogL: -3347.309 / Time: 0h:1m:19s (0h:0m:5s left)
+Iteration 480 / LogL: -3331.078 / Time: 0h:1m:21s (0h:0m:3s left)
+Iteration 490 / LogL: -3330.943 / Time: 0h:1m:24s (0h:0m:1s left)
+Iteration 500 / LogL: -3337.220 / Time: 0h:1m:26s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3361.317
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.979
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+BETTER TREE FOUND at iteration 508: -3330.933
+Iteration 510 / LogL: -3330.939 / Time: 0h:1m:28s (0h:0m:17s left)
+Iteration 520 / LogL: -3330.948 / Time: 0h:1m:31s (0h:0m:15s left)
+Iteration 530 / LogL: -3330.947 / Time: 0h:1m:33s (0h:0m:13s left)
+Iteration 540 / LogL: -3336.545 / Time: 0h:1m:36s (0h:0m:12s left)
+Iteration 550 / LogL: -3347.446 / Time: 0h:1m:38s (0h:0m:10s left)
+Log-likelihood cutoff on original alignment: -3361.317
+Iteration 560 / LogL: -3331.078 / Time: 0h:1m:41s (0h:0m:8s left)
+Iteration 570 / LogL: -3340.074 / Time: 0h:1m:43s (0h:0m:6s left)
+Iteration 580 / LogL: -3345.547 / Time: 0h:1m:46s (0h:0m:5s left)
+Iteration 590 / LogL: -3330.938 / Time: 0h:1m:48s (0h:0m:3s left)
+Iteration 600 / LogL: -3331.078 / Time: 0h:1m:51s (0h:0m:1s left)
+Log-likelihood cutoff on original alignment: -3361.442
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 610 / LogL: -3330.963 / Time: 0h:1m:54s (0h:0m:16s left)
+Iteration 620 / LogL: -3331.068 / Time: 0h:1m:57s (0h:0m:15s left)
+Iteration 630 / LogL: -3338.489 / Time: 0h:1m:59s (0h:0m:13s left)
+Iteration 640 / LogL: -3338.611 / Time: 0h:2m:2s (0h:0m:11s left)
+Iteration 650 / LogL: -3342.951 / Time: 0h:2m:5s (0h:0m:9s left)
+Log-likelihood cutoff on original alignment: -3361.442
+Iteration 660 / LogL: -3330.948 / Time: 0h:2m:8s (0h:0m:7s left)
+Iteration 670 / LogL: -3333.809 / Time: 0h:2m:11s (0h:0m:5s left)
+Iteration 680 / LogL: -3330.945 / Time: 0h:2m:13s (0h:0m:3s left)
+Iteration 690 / LogL: -3330.946 / Time: 0h:2m:16s (0h:0m:1s left)
+Iteration 700 / LogL: -3330.949 / Time: 0h:2m:19s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3361.442
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 710 / LogL: -3330.953 / Time: 0h:2m:22s (0h:0m:18s left)
+Iteration 720 / LogL: -3337.353 / Time: 0h:2m:25s (0h:0m:16s left)
+Iteration 730 / LogL: -3330.946 / Time: 0h:2m:28s (0h:0m:14s left)
+Iteration 740 / LogL: -3336.844 / Time: 0h:2m:31s (0h:0m:12s left)
+Iteration 750 / LogL: -3336.418 / Time: 0h:2m:34s (0h:0m:10s left)
+Log-likelihood cutoff on original alignment: -3362.283
+Iteration 760 / LogL: -3330.945 / Time: 0h:2m:37s (0h:0m:8s left)
+Iteration 770 / LogL: -3338.713 / Time: 0h:2m:40s (0h:0m:6s left)
+Iteration 780 / LogL: -3336.515 / Time: 0h:2m:43s (0h:0m:4s left)
+Iteration 790 / LogL: -3341.242 / Time: 0h:2m:46s (0h:0m:2s left)
+Iteration 800 / LogL: -3330.941 / Time: 0h:2m:50s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3362.151
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 810 / LogL: -3331.079 / Time: 0h:2m:53s (0h:0m:19s left)
+Iteration 820 / LogL: -3331.066 / Time: 0h:2m:57s (0h:0m:17s left)
+Iteration 830 / LogL: -3336.423 / Time: 0h:3m:0s (0h:0m:15s left)
+Iteration 840 / LogL: -3330.957 / Time: 0h:3m:3s (0h:0m:13s left)
+Iteration 850 / LogL: -3347.157 / Time: 0h:3m:6s (0h:0m:10s left)
+Log-likelihood cutoff on original alignment: -3362.151
+Iteration 860 / LogL: -3330.962 / Time: 0h:3m:10s (0h:0m:8s left)
+Iteration 870 / LogL: -3331.071 / Time: 0h:3m:14s (0h:0m:6s left)
+Iteration 880 / LogL: -3330.955 / Time: 0h:3m:17s (0h:0m:4s left)
+Iteration 890 / LogL: -3336.433 / Time: 0h:3m:20s (0h:0m:2s left)
+Iteration 900 / LogL: -3338.716 / Time: 0h:3m:24s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3362.151
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 910 / LogL: -3349.616 / Time: 0h:3m:28s (0h:0m:20s left)
+Iteration 920 / LogL: -3340.519 / Time: 0h:3m:31s (0h:0m:18s left)
+Iteration 930 / LogL: -3330.945 / Time: 0h:3m:35s (0h:0m:16s left)
+Iteration 940 / LogL: -3330.949 / Time: 0h:3m:38s (0h:0m:13s left)
+Iteration 950 / LogL: -3330.951 / Time: 0h:3m:42s (0h:0m:11s left)
+Log-likelihood cutoff on original alignment: -3362.852
+Iteration 960 / LogL: -3331.070 / Time: 0h:3m:46s (0h:0m:9s left)
+Iteration 970 / LogL: -3330.945 / Time: 0h:3m:50s (0h:0m:7s left)
+Iteration 980 / LogL: -3345.853 / Time: 0h:3m:53s (0h:0m:4s left)
+Iteration 990 / LogL: -3330.941 / Time: 0h:3m:57s (0h:0m:2s left)
+Iteration 1000 / LogL: -3330.940 / Time: 0h:4m:0s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -3362.905
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+WARNING: bootstrap analysis did not converge. You should rerun with higher number of iterations (-nm option)
+TREE SEARCH COMPLETED AFTER 1001 ITERATIONS / Time: 0h:4m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3330.933
+Optimal log-likelihood: -3330.933
+Rate parameters:  A-C: 2.65639  A-G: 11.82958  A-T: 0.64584  C-G: 0.82040  C-T: 10.48575  G-T: 1.00000
+Base frequencies:  A: 0.278  C: 0.220  G: 0.245  T: 0.257
+Gamma shape alpha: 0.381
+Parameters optimization took 1 rounds (0.011 sec)
+BEST SCORE FOUND : -3330.933
+
+Testing tree branches by SH-like aLRT with 1000 replicates...
+0.480 sec.
+Creating bootstrap support values...
+Split supports printed to NEXUS file AM5_glycoprotein_aln.fa.splits.nex
+Total tree length: 0.157
+
+Total number of iterations: 1001
+CPU time used for tree search: 354.786 sec (0h:5m:54s)
+Wall-clock time used for tree search: 241.748 sec (0h:4m:1s)
+Total CPU time used: 356.667 sec (0h:5m:56s)
+Total wall-clock time used: 243.010 sec (0h:4m:3s)
+
+Computing bootstrap consensus tree...
+Reading input file AM5_glycoprotein_aln.fa.splits.nex...
+102 taxa and 4186 splits.
+Consensus tree written to AM5_glycoprotein_aln.fa.contree
+Reading input trees file AM5_glycoprotein_aln.fa.contree
+Log-likelihood of consensus tree: -3331.310
+
+Analysis results written to: 
+  IQ-TREE report:                AM5_glycoprotein_aln.fa.iqtree
+  Maximum-likelihood tree:       AM5_glycoprotein_aln.fa.treefile
+  Likelihood distances:          AM5_glycoprotein_aln.fa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          AM5_glycoprotein_aln.fa.splits.nex
+  Consensus tree:                AM5_glycoprotein_aln.fa.contree
+  Screen log file:               AM5_glycoprotein_aln.fa.log
+
+Date and Time: Fri Apr 24 23:43:01 2026

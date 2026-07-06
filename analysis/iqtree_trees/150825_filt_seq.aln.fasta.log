@@ -1,0 +1,344 @@
+IQ-TREE multicore version 2.3.6 for MacOS ARM 64-bit built Aug  4 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    MVLS-MACLAP381977 (SSE4.2, 36 GB RAM)
+Command: iqtree -s /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta -m TEST -nt AUTO
+Seed:    571361 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Sep  5 13:59:13 2025
+Kernel:  SSE2 - auto-detect threads (11 CPU cores detected)
+
+Reading alignment file /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta ... Fasta format detected
+Reading fasta file: done in 0.0159731 secs using 86.02% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 99 sequences with 11925 columns, 547 distinct patterns
+188 parsimony-informative, 181 singleton sites, 11556 constant sites
+           Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 9.98974e-05 secs using 103.1% CPU
+   1  114_2015     0.82%    passed     99.99%
+   2  140_2020    15.09%    passed     84.53%
+   3  151_2024     0.82%    passed     99.97%
+   4  152_2023     0.82%    passed     99.95%
+   5  159_2017     0.82%    passed    100.00%
+   6  162_2024     0.82%    passed     99.76%
+   7  16_2021      0.82%    passed     99.37%
+   8  213_2021     2.79%    passed     99.88%
+   9  227_2019     0.82%    passed     99.97%
+  10  280_2022     0.82%    passed     99.99%
+  11  286_2022     2.88%    passed     97.41%
+  12  291_2016     1.01%    passed     99.90%
+  13  297_2023     0.82%    passed    100.00%
+  14  35_2018      0.82%    passed     99.96%
+  15  367_2015     0.82%    passed     99.98%
+  16  402_2017     0.82%    passed     99.96%
+  17  41_2020      7.66%    passed     98.65%
+  18  41_2024      0.82%    passed     99.76%
+  19  42_2020      2.79%    passed     99.90%
+  20  52_2018      5.48%    passed     98.31%
+  21  54_2024      0.82%    passed     99.95%
+  22  69_2016      2.79%    passed     99.88%
+  23  93_2018      4.81%    passed     97.24%
+  24  103_2022     0.82%    passed     99.97%
+  25  149_2020     0.82%    passed     99.99%
+  26  183_2023     0.82%    passed     99.94%
+  27  22_2016      0.82%    passed     99.99%
+  28  24_2019      0.82%    passed    100.00%
+  29  25_2020      5.48%    passed     98.47%
+  30  273_2023     0.82%    passed     99.86%
+  31  30_2023      5.48%    passed     97.62%
+  32  319_2017     7.66%    passed     92.99%
+  33  32_2016      0.82%    passed    100.00%
+  34  44_2016      0.82%    passed    100.00%
+  35  47_2019      2.79%    passed     99.92%
+  36  4_2023       0.82%    passed     99.86%
+  37  609_2015     0.82%    passed     99.94%
+  38  653_2015     0.82%    passed     99.94%
+  39  696_2015     5.48%    passed     98.10%
+  40  699_2015     5.48%    passed     98.25%
+  41  704_2015     0.82%    passed     99.96%
+  42  711_2015     0.82%    passed     99.99%
+  43  75_2021     11.68%    passed     91.49%
+  44  101_2017     0.82%    passed     99.95%
+  45  225_2017     0.82%    passed     99.99%
+  46  234_2016     0.82%    passed     99.99%
+  47  236_2019     0.82%    passed     99.95%
+  48  23_2020     13.47%    passed     95.75%
+  49  246_2022     0.82%    passed     99.94%
+  50  266_2022     0.82%    passed     99.99%
+  51  270_2023     0.82%    passed     99.94%
+  52  272_2017     2.79%    passed     99.74%
+  53  272_2019     0.82%    passed     99.99%
+  54  289_2019     0.82%    passed     99.73%
+  55  358_2023     0.82%    passed     99.78%
+  56  374_2018     0.82%    passed    100.00%
+  57  375_2018     0.82%    passed     99.99%
+  58  386_2016     0.82%    passed    100.00%
+  59  462_2016     0.82%    passed     99.96%
+  60  46_2019      0.82%    passed     99.99%
+  61  481_2016     0.82%    passed     99.99%
+  62  485_2016     0.82%    passed    100.00%
+  63  73_2015      0.82%    passed     99.97%
+  64  88_2019      2.88%    passed     98.66%
+  65  92_2018      0.82%    passed     99.77%
+  66  90_2021      0.83%    passed     99.66%
+  67  61_2021      0.83%    passed     98.88%
+  68  56_2021      2.89%    passed     99.95%
+  69  40_2021      0.83%    passed    100.00%
+  70  31_2021      0.88%    passed     99.99%
+  71  30_2021      0.87%    passed     99.14%
+  72  231_2021     1.04%    passed     99.87%
+  73  219_2022     0.86%    passed     99.87%
+  74  173_2022     0.89%    passed     99.78%
+  75  172_2022     0.95%    passed     99.95%
+  76  158_2022     0.84%    passed     99.76%
+  77  147_2022     9.84%    passed     96.57%
+  78  145_2022     0.82%    passed     99.97%
+  79  126_2021     0.91%    passed     99.94%
+  80  73_2021     11.41%    passed     96.47%
+  81  71_2021     11.41%    passed     96.11%
+  82  68_2021     11.42%    passed     96.76%
+  83  52_2021     11.40%    passed     96.68%
+  84  34_2021     11.40%    passed     96.68%
+  85  251_2021    11.40%    passed     96.47%
+  86  250_2021    11.40%    passed     96.47%
+  87  236_2022    18.20%    passed     94.05%
+  88  202_2021    11.42%    passed     97.12%
+  89  147_2021    11.40%    passed     96.68%
+  90  107_2021    11.42%    passed     96.95%
+  91  1101786      0.50%    passed     98.97%
+  92  560_2015     0.34%    passed     99.73%
+  93  375_2017     0.27%    passed     99.60%
+  94  3553_2010    0.18%    passed     99.94%
+  95  182_2019     5.47%    passed     99.52%
+  96  121_2019     1.12%    passed     99.70%
+  97  107_2018    11.95%    passed     95.50%
+  98  1101787      0.48%    passed     99.46%
+  99  1203037      0.73%    passed     97.70%
+****  TOTAL        3.26%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: 34_2021 is identical to 52_2021 but kept for subsequent analysis
+NOTE: 250_2021 is identical to 251_2021 but kept for subsequent analysis
+NOTE: 1 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: 147_2021 (identical to 52_2021) is ignored but added at the end
+Alignment was printed to /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.002 seconds
+Measuring multi-threading efficiency up to 11 CPU cores
+Increase to 10 rounds for branch lengths
+315 trees examined
+Threads: 1 / Time: 11.008 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -29380
+Threads: 2 / Time: 13.022 sec / Speedup: 0.845 / Efficiency: 42% / LogL: -29380
+BEST NUMBER OF THREADS: 1
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -20883.563
+Optimal log-likelihood: -20883.100
+Rate parameters:  A-C: 4.69073  A-G: 15.00500  A-T: 1.20161  C-G: 1.41163  C-T: 13.56386  G-T: 1.00000
+Base frequencies:  A: 0.284  C: 0.220  G: 0.233  T: 0.263
+Proportion of invariable sites: 0.493
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.041 sec)
+Time for fast ML tree search: 0.423 seconds
+
+NOTE: ModelFinder requires 7 MB RAM!
+ModelFinder will test up to 88 DNA models (sample size: 11925 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         21103.426    201 42608.852    42615.779    44093.517
+  2  GTR+F+I       20856.407    202 42116.814    42123.810    43608.865
+  3  GTR+F+G4      20944.544    202 42293.088    42300.084    43785.139
+  4  GTR+F+I+G4    20852.956    203 42111.912    42118.979    43611.350
+  6  SYM+I         20920.974    199 42239.948    42246.737    43709.840
+  8  SYM+I+G4      20917.580    200 42235.160    42242.018    43712.439
+ 10  TVM+F+I       20856.634    201 42115.267    42122.194    43599.932
+ 12  TVM+F+I+G4    20837.030    202 42078.061    42085.057    43570.112
+ 14  TVMe+I        20921.964    198 42239.928    42246.649    43702.434
+ 16  TVMe+I+G4     20902.842    199 42203.685    42210.474    43673.577
+ 18  TIM3+F+I      20867.546    200 42135.092    42141.950    43612.371
+ 20  TIM3+F+I+G4   20847.847    201 42097.694    42104.621    43582.359
+ 22  TIM3e+I       20935.174    197 42264.348    42271.000    43719.467
+ 24  TIM3e+I+G4    20915.961    198 42227.921    42234.642    43690.427
+ 26  TIM2+F+I      20871.498    200 42142.997    42149.854    43620.275
+ 28  TIM2+F+I+G4   20852.326    201 42106.652    42113.579    43591.317
+ 30  TIM2e+I       20933.491    197 42260.982    42267.634    43716.101
+ 32  TIM2e+I+G4    20914.595    198 42225.191    42231.911    43687.696
+ 34  TIM+F+I       20872.496    200 42144.992    42151.850    43622.271
+ 36  TIM+F+I+G4    20853.044    201 42108.087    42115.014    43592.752
+ 38  TIMe+I        20937.625    197 42269.251    42275.903    43724.370
+ 40  TIMe+I+G4     20918.573    198 42233.147    42239.867    43695.652
+ 42  TPM3u+F+I     20867.725    199 42133.449    42140.238    43603.341
+ 44  TPM3u+F+I+G4  20847.968    200 42095.937    42102.794    43573.215
+ 46  TPM3+I        20936.097    196 42264.194    42270.778    43711.927
+ 48  TPM3+I+G4     20916.812    197 42227.624    42234.277    43682.743
+ 50  TPM2u+F+I     20871.761    199 42141.522    42148.311    43611.414
+ 52  TPM2u+F+I+G4  20852.525    200 42105.051    42111.908    43582.329
+ 54  TPM2+I        20934.340    196 42260.679    42267.264    43708.412
+ 56  TPM2+I+G4     20915.392    197 42224.783    42231.436    43679.903
+ 58  K3Pu+F+I      20872.777    199 42143.554    42150.342    43613.446
+ 60  K3Pu+F+I+G4   20853.285    200 42106.570    42113.428    43583.848
+ 62  K3P+I         20938.513    196 42269.026    42275.611    43716.759
+ 64  K3P+I+G4      20919.320    197 42232.641    42239.293    43687.760
+ 66  TN+F+I        20880.571    199 42159.142    42165.931    43629.034
+ 68  TN+F+I+G4     20860.688    200 42121.375    42128.233    43598.654
+ 70  TNe+I         20945.454    196 42282.908    42289.492    43730.640
+ 72  TNe+I+G4      20925.754    197 42245.507    42252.159    43700.626
+ 74  HKY+F+I       20880.862    198 42157.723    42164.444    43620.229
+ 76  HKY+F+I+G4    20860.670    199 42119.340    42126.129    43589.232
+ 78  K2P+I         20946.335    195 42282.670    42289.187    43723.016
+ 80  K2P+I+G4      20926.320    196 42244.640    42251.225    43692.373
+ 82  F81+F+I       21084.379    197 42562.759    42569.411    44017.878
+ 84  F81+F+I+G4    21064.189    198 42524.378    42531.098    43986.883
+ 86  JC+I          21149.513    194 42687.026    42693.476    44119.986
+ 88  JC+I+G4       21129.352    195 42648.704    42655.221    44089.050
+Akaike Information Criterion:           TVM+F+I+G4
+Corrected Akaike Information Criterion: TVM+F+I+G4
+Bayesian Information Criterion:         TVM+F+I+G4
+Best-fit model: TVM+F+I+G4 chosen according to BIC
+
+All model information printed to /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.model.gz
+CPU time for ModelFinder: 34.293 seconds (0h:0m:34s)
+Wall-clock time for ModelFinder: 32.372 seconds (0h:0m:32s)
+
+NOTE: 7 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 0.781 / Estimate: 0.000, 0.020 / LogL: -20944.747
+Init pinv, alpha: 0.108, 0.781 / Estimate: 0.239, 0.020 / LogL: -20917.583
+Init pinv, alpha: 0.215, 0.781 / Estimate: 0.446, 0.020 / LogL: -20889.897
+Init pinv, alpha: 0.323, 0.781 / Estimate: 0.599, 0.020 / LogL: -20868.308
+Init pinv, alpha: 0.431, 0.781 / Estimate: 0.688, 0.112 / LogL: -20857.865
+Init pinv, alpha: 0.538, 0.781 / Estimate: 0.757, 0.218 / LogL: -20849.919
+Init pinv, alpha: 0.646, 0.781 / Estimate: 0.824, 0.399 / LogL: -20841.741
+Init pinv, alpha: 0.754, 0.781 / Estimate: 0.866, 0.642 / LogL: -20837.004
+Init pinv, alpha: 0.861, 0.781 / Estimate: 0.866, 0.642 / LogL: -20837.222
+Init pinv, alpha: 0.969, 0.781 / Estimate: 0.918, 1.705 / LogL: -20836.846
+Optimal pinv,alpha: 0.918, 1.705 / LogL: -20836.846
+
+Parameters optimization took 23.008 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0228519 secs using 99.89% CPU
+Computing ML distances took 0.022973 sec (of wall-clock time) 0.022929 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000137091 secs using 83.16% CPU
+Computing RapidNJ tree took 0.000443 sec (of wall-clock time) 0.000386 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -20905.011
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.218 second
+Computing log-likelihood of 98 initial trees ... 0.598 seconds
+Current best score: -20819.132
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -20814.447
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -20813.998
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -20812.863
+Iteration 10 / LogL: -20818.795 / Time: 0h:0m:57s
+Iteration 20 / LogL: -20822.602 / Time: 0h:0m:58s
+Finish initializing candidate tree set (20)
+Current best tree score: -20812.863 / CPU time: 2.853
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -20811.626
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -20810.709
+Iteration 30 / LogL: -20811.610 / Time: 0h:0m:59s (0h:1m:33s left)
+Iteration 40 / LogL: -20811.539 / Time: 0h:1m:1s (0h:1m:5s left)
+BETTER TREE FOUND at iteration 46: -20810.706
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -20810.077
+Iteration 50 / LogL: -20819.857 / Time: 0h:1m:2s (0h:1m:0s left)
+Iteration 60 / LogL: -20815.055 / Time: 0h:1m:4s (0h:0m:47s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 61: -20807.672
+Iteration 70 / LogL: -20809.393 / Time: 0h:1m:5s (0h:0m:43s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 72: -20806.801
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 77: -20806.752
+Iteration 80 / LogL: -20808.218 / Time: 0h:1m:7s (0h:0m:42s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 81: -20806.663
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 89: -20806.553
+Iteration 90 / LogL: -20806.711 / Time: 0h:1m:8s (0h:0m:40s left)
+Iteration 100 / LogL: -20819.470 / Time: 0h:1m:10s (0h:0m:34s left)
+Iteration 110 / LogL: -20813.418 / Time: 0h:1m:11s (0h:0m:28s left)
+Iteration 120 / LogL: -20806.735 / Time: 0h:1m:12s (0h:0m:23s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 128: -20806.439
+Iteration 130 / LogL: -20807.175 / Time: 0h:1m:14s (0h:0m:31s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 132: -20806.404
+Iteration 140 / LogL: -20809.119 / Time: 0h:1m:15s (0h:0m:28s left)
+Iteration 150 / LogL: -20829.128 / Time: 0h:1m:17s (0h:0m:24s left)
+BETTER TREE FOUND at iteration 156: -20806.403
+BETTER TREE FOUND at iteration 160: -20806.400
+Iteration 160 / LogL: -20806.400 / Time: 0h:1m:18s (0h:0m:29s left)
+Iteration 170 / LogL: -20807.993 / Time: 0h:1m:20s (0h:0m:25s left)
+Iteration 180 / LogL: -20808.251 / Time: 0h:1m:21s (0h:0m:21s left)
+Iteration 190 / LogL: -20820.776 / Time: 0h:1m:22s (0h:0m:18s left)
+Iteration 200 / LogL: -20807.998 / Time: 0h:1m:24s (0h:0m:15s left)
+BETTER TREE FOUND at iteration 202: -20806.396
+Iteration 210 / LogL: -20807.990 / Time: 0h:1m:25s (0h:0m:23s left)
+Iteration 220 / LogL: -20812.596 / Time: 0h:1m:27s (0h:0m:20s left)
+Iteration 230 / LogL: -20806.410 / Time: 0h:1m:28s (0h:0m:17s left)
+Iteration 240 / LogL: -20806.765 / Time: 0h:1m:30s (0h:0m:14s left)
+Iteration 250 / LogL: -20810.684 / Time: 0h:1m:31s (0h:0m:12s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 251: -20806.368
+Iteration 260 / LogL: -20806.371 / Time: 0h:1m:32s (0h:0m:21s left)
+Iteration 270 / LogL: -20806.401 / Time: 0h:1m:34s (0h:0m:18s left)
+Iteration 280 / LogL: -20806.467 / Time: 0h:1m:35s (0h:0m:16s left)
+Iteration 290 / LogL: -20822.498 / Time: 0h:1m:37s (0h:0m:13s left)
+Iteration 300 / LogL: -20819.722 / Time: 0h:1m:38s (0h:0m:11s left)
+Iteration 310 / LogL: -20812.930 / Time: 0h:1m:39s (0h:0m:8s left)
+Iteration 320 / LogL: -20806.468 / Time: 0h:1m:41s (0h:0m:6s left)
+Iteration 330 / LogL: -20806.406 / Time: 0h:1m:42s (0h:0m:4s left)
+Iteration 340 / LogL: -20806.605 / Time: 0h:1m:44s (0h:0m:2s left)
+Iteration 350 / LogL: -20806.878 / Time: 0h:1m:45s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 352 ITERATIONS / Time: 0h:1m:45s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -20806.368
+2. Current log-likelihood: -20806.355
+3. Current log-likelihood: -20806.344
+4. Current log-likelihood: -20806.332
+5. Current log-likelihood: -20806.321
+6. Current log-likelihood: -20806.310
+Optimal log-likelihood: -20806.299
+Rate parameters:  A-C: 5.08360  A-G: 15.47187  A-T: 1.23112  C-G: 1.46739  C-T: 15.47187  G-T: 1.00000
+Base frequencies:  A: 0.284  C: 0.220  G: 0.233  T: 0.263
+Proportion of invariable sites: 0.908
+Gamma shape alpha: 1.369
+Parameters optimization took 6 rounds (0.133 sec)
+BEST SCORE FOUND : -20806.299
+Total tree length: 0.044
+
+Total number of iterations: 352
+CPU time used for tree search: 50.465 sec (0h:0m:50s)
+Wall-clock time used for tree search: 50.517 sec (0h:0m:50s)
+Total CPU time used: 107.947 sec (0h:1m:47s)
+Total wall-clock time used: 106.098 sec (0h:1m:46s)
+
+Analysis results written to: 
+  IQ-TREE report:                /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.iqtree
+  Maximum-likelihood tree:       /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.treefile
+  Likelihood distances:          /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.mldist
+  Screen log file:               /Users/kirstyn.brunker/GitHub/rage-redcap-developer/peru/150825_filt_seq.aln.fasta.log
+
+Date and Time: Fri Sep  5 14:00:59 2025

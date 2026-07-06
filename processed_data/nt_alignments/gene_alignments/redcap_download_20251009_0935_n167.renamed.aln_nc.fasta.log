@@ -1,0 +1,505 @@
+IQ-TREE multicore version 2.3.6 for MacOS ARM 64-bit built Aug  4 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    MVLS-MACLAP381977 (SSE4.2, 36 GB RAM)
+Command: iqtree -s /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta -m MFP -bb 1000 -nt AUTO
+Seed:    19830 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Oct 17 14:38:01 2025
+Kernel:  SSE2 - auto-detect threads (11 CPU cores detected)
+
+Reading alignment file /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta ... Fasta format detected
+Reading fasta file: done in 0.0037601 secs using 86.22% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 167 sequences with 1110 columns, 187 distinct patterns
+48 parsimony-informative, 53 singleton sites, 1009 constant sites
+           Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 9.58443e-05 secs using 117.9% CPU
+   1  10_2020      8.74%    passed     99.59%
+   2  10_2021      8.74%    passed     99.39%
+   3  100_2023     8.74%    passed     98.18%
+   4  101_2017     8.74%    passed     99.78%
+   5  103_2022     8.74%    passed     99.83%
+   6  107_2018     6.40%    passed     59.76%
+   7  107_2021     8.74%    passed     99.60%
+   8  1101786      5.32%    passed     87.57%
+   9  1101787      4.95%    passed     89.84%
+  10  112_2017     8.74%    passed     99.97%
+  11  114_2015     8.74%    passed     99.78%
+  12  12_2017      8.74%    passed     99.60%
+  13  1203037      7.75%    passed     84.51%
+  14  121_2019     8.74%    passed     99.78%
+  15  126_2021     9.01%    passed     99.57%
+  16  130_2016     8.74%    passed     99.78%
+  17  131_2019     8.74%    passed     99.78%
+  18  140_2018    12.16%    passed     96.72%
+  19  140_2020    51.62%    passed     57.01%
+  20  145_2017     8.74%    passed     99.78%
+  21  145_2022     8.74%    passed     99.39%
+  22  146_2021     8.74%    passed     99.82%
+  23  147_2021    17.39%    passed     99.85%
+  24  147_2022    38.38%    passed     41.65%
+  25  149_2020     8.74%    passed     99.82%
+  26  15_2021      8.74%    passed     99.78%
+  27  151_2024     8.74%    passed     99.82%
+  28  152_2023     8.74%    passed     99.48%
+  29  158_2022     8.74%    passed     99.82%
+  30  159_2017     8.74%    passed     99.94%
+  31  16_2021      8.74%    passed     99.22%
+  32  162_2018     8.74%    passed     98.18%
+  33  162_2024     8.74%    passed     99.78%
+  34  166_2016     8.74%    passed     99.95%
+  35  172_2022     8.83%    passed     99.79%
+  36  173_2022     9.46%    passed     99.68%
+  37  175_2023     8.74%    passed     99.78%
+  38  182_2019     8.74%    passed     99.95%
+  39  183_2019     8.74%    passed     98.18%
+  40  183_2023     8.74%    passed     99.78%
+  41  186_2018     8.74%    passed     99.78%
+  42  2_2017       8.74%    passed     99.78%
+  43  201_2017     8.74%    passed     99.95%
+  44  202_2021    17.39%    passed     99.85%
+  45  209_2018     8.74%    passed     99.95%
+  46  213_2021    29.91%    passed     68.72%
+  47  218_2023     8.74%    passed     99.18%
+  48  219_2022     8.74%    passed     99.60%
+  49  219_2024     8.74%    passed     85.49%
+  50  22_2016      8.74%    passed     99.71%
+  51  22_2018      8.74%    passed     99.78%
+  52  225_2017     8.74%    passed     99.81%
+  53  225_2019     8.74%    passed     99.74%
+  54  225_2023     8.74%    passed     99.78%
+  55  227_2019     8.74%    passed     99.82%
+  56  23_2020     46.85%    passed     29.96%
+  57  231_2021     9.28%    passed     99.01%
+  58  232_2023    12.16%    passed     98.59%
+  59  234_2016     8.74%    passed     99.78%
+  60  236_2019     8.74%    passed     99.71%
+  61  236_2022    55.50%    passed     22.05%
+  62  24_2019      8.74%    passed     99.78%
+  63  240_2019     8.74%    passed     99.78%
+  64  240_2023     8.74%    passed     99.83%
+  65  242_2019     8.74%    passed     99.82%
+  66  244_2019     8.74%    passed     99.82%
+  67  246_2022     8.74%    passed     99.78%
+  68  247_2018     8.74%    passed     99.95%
+  69  25_2020     46.85%    passed     32.56%
+  70  250_2021    17.39%    passed     99.85%
+  71  251_2021    17.39%    passed     99.85%
+  72  255_2019     8.74%    passed     99.78%
+  73  259_2017     8.74%    passed     99.78%
+  74  266_2022     8.74%    passed     99.71%
+  75  270_2023     8.74%    passed     99.83%
+  76  272_2017    29.91%    passed     53.41%
+  77  272_2019     8.74%    passed     99.95%
+  78  273_2023     8.74%    passed     99.72%
+  79  275_2017     8.74%    passed     99.74%
+  80  279_2017     8.74%    passed     99.82%
+  81  280_2022     8.74%    passed     99.82%
+  82  286_2022    12.16%    passed     98.59%
+  83  289_2019     8.74%    passed     99.48%
+  84  29_2021      8.74%    passed     99.44%
+  85  291_2016    10.72%    passed     99.20%
+  86  297_2023     8.74%    passed     99.82%
+  87  298_2017     8.74%    passed     99.06%
+  88  30_2021      8.83%    passed     98.92%
+  89  30_2023     46.85%    passed     27.24%
+  90  302_2016     8.74%    passed     99.78%
+  91  302_2017     8.74%    passed     99.95%
+  92  31_2021      8.92%    passed     99.93%
+  93  312_2019     8.74%    passed     99.74%
+  94  315_2017     8.74%    passed     99.06%
+  95  319_2017    46.85%    passed     27.24%
+  96  32_2016      8.74%    passed     99.59%
+  97  320_2019     8.74%    passed     99.95%
+  98  321_2023    20.09%    passed     94.20%
+  99  333_2018     8.74%    passed     99.78%
+ 100  336_2019    29.91%    passed     65.70%
+ 101  34_2021     17.39%    passed     99.85%
+ 102  348_2023     8.74%    passed     99.18%
+ 103  35_2018      8.74%    passed     99.95%
+ 104  3553_2010    1.98%    passed     77.40%
+ 105  357_2016     8.74%    passed     99.78%
+ 106  358_2023     8.74%    passed     99.18%
+ 107  367_2015     8.74%    passed     99.59%
+ 108  374_2018     8.74%    passed     99.95%
+ 109  375_2017     2.88%    passed     80.15%
+ 110  375_2018     8.74%    passed     99.78%
+ 111  386_2016     8.74%    passed     99.82%
+ 112  4_2023       8.74%    passed     99.78%
+ 113  40_2021      8.74%    passed     99.82%
+ 114  40_2025     46.85%    passed     32.56%
+ 115  402_2017     8.74%    passed     99.78%
+ 116  41_2020     46.85%    passed     32.35%
+ 117  41_2024      8.74%    passed     99.78%
+ 118  42_2020     29.91%    passed     63.86%
+ 119  435_2018     8.74%    passed     99.06%
+ 120  44_2016      8.74%    passed     99.82%
+ 121  442_2016     8.74%    passed     99.59%
+ 122  447_2018     8.74%    passed     99.52%
+ 123  46_2017      8.74%    passed     99.95%
+ 124  46_2019      8.74%    passed     99.97%
+ 125  462_2016     8.74%    passed     99.85%
+ 126  468_2016     8.74%    passed     99.78%
+ 127  47_2019     29.91%    passed     59.86%
+ 128  48_2019      8.74%    passed     99.78%
+ 129  480_2016     8.74%    passed     99.78%
+ 130  481_2016     8.74%    passed     99.78%
+ 131  485_2016     8.74%    passed     99.78%
+ 132  495_2016     8.74%    passed     99.39%
+ 133  51_2018      8.74%    passed     99.95%
+ 134  52_2018     46.85%    passed     27.24%
+ 135  52_2021     17.39%    passed     99.85%
+ 136  534_2016    11.44%    passed     98.28%
+ 137  54_2024      8.74%    passed     99.82%
+ 138  56_2021     29.91%    passed     63.86%
+ 139  56_2023      8.74%    passed     99.71%
+ 140  560_2015     3.69%    passed     82.21%
+ 141  562_2016     8.74%    passed     99.95%
+ 142  563_2016     8.74%    passed     99.78%
+ 143  57_2017      8.74%    passed     99.78%
+ 144  571_2016     8.74%    passed     99.59%
+ 145  576_2016     8.74%    passed     99.78%
+ 146  609_2015     8.74%    passed     99.78%
+ 147  61_2021      8.74%    passed     99.22%
+ 148  653_2015     8.74%    passed     99.78%
+ 149  68_2021     17.39%    passed     99.85%
+ 150  69_2016     29.91%    passed     63.00%
+ 151  69_2022      8.74%    passed     99.82%
+ 152  696_2015    46.85%    passed     27.24%
+ 153  699_2015    46.85%    passed     29.96%
+ 154  704_2015     8.74%    passed     99.78%
+ 155  71_2021     17.39%    passed     99.85%
+ 156  711_2015     8.74%    passed     99.94%
+ 157  73_2015      8.74%    passed     99.78%
+ 158  73_2021     17.39%    passed     99.88%
+ 159  75_2021     47.12%    passed     39.49%
+ 160  88_2019     12.16%    passed     96.20%
+ 161  89_2018      8.74%    passed     99.78%
+ 162  9_2019       8.74%    passed     99.06%
+ 163  90_2021      8.74%    passed     99.78%
+ 164  91_2017      8.74%    passed     99.78%
+ 165  92_2018      8.74%    passed     98.18%
+ 166  93_2018     29.91%    passed     59.86%
+ 167  97_2017      8.74%    passed     99.78%
+WARNING: 2 sequences contain more than 50% gaps/ambiguity
+****  TOTAL       13.24%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: 114_2015 is identical to 101_2017 but kept for subsequent analysis
+NOTE: 240_2023 is identical to 103_2022 but kept for subsequent analysis
+NOTE: 149_2020 is identical to 146_2021 but kept for subsequent analysis
+NOTE: 202_2021 is identical to 147_2021 but kept for subsequent analysis
+NOTE: 90_2021 is identical to 15_2021 but kept for subsequent analysis
+NOTE: 61_2021 is identical to 16_2021 but kept for subsequent analysis
+NOTE: 92_2018 is identical to 162_2018 but kept for subsequent analysis
+NOTE: 41_2024 is identical to 162_2024 but kept for subsequent analysis
+NOTE: 182_2019 is identical to 166_2016 but kept for subsequent analysis
+NOTE: 183_2023 is identical to 175_2023 but kept for subsequent analysis
+NOTE: 35_2018 is identical to 201_2017 but kept for subsequent analysis
+NOTE: 348_2023 is identical to 218_2023 but kept for subsequent analysis
+NOTE: 312_2019 is identical to 225_2019 but kept for subsequent analysis
+NOTE: 242_2019 is identical to 227_2019 but kept for subsequent analysis
+NOTE: 699_2015 is identical to 23_2020 but kept for subsequent analysis
+NOTE: 286_2022 is identical to 232_2023 but kept for subsequent analysis
+NOTE: 576_2016 is identical to 259_2017 but kept for subsequent analysis
+NOTE: 56_2023 is identical to 266_2022 but kept for subsequent analysis
+NOTE: 297_2023 is identical to 280_2022 but kept for subsequent analysis
+NOTE: 315_2017 is identical to 298_2017 but kept for subsequent analysis
+NOTE: 319_2017 is identical to 30_2023 but kept for subsequent analysis
+NOTE: 571_2016 is identical to 367_2015 but kept for subsequent analysis
+NOTE: 53 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: 121_2019 (identical to 101_2017) is ignored but added at the end
+NOTE: 130_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 131_2019 (identical to 101_2017) is ignored but added at the end
+NOTE: 145_2017 (identical to 101_2017) is ignored but added at the end
+NOTE: 186_2018 (identical to 101_2017) is ignored but added at the end
+NOTE: 2_2017 (identical to 101_2017) is ignored but added at the end
+NOTE: 22_2018 (identical to 101_2017) is ignored but added at the end
+NOTE: 24_2019 (identical to 101_2017) is ignored but added at the end
+NOTE: 255_2019 (identical to 101_2017) is ignored but added at the end
+NOTE: 302_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 357_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 402_2017 (identical to 101_2017) is ignored but added at the end
+NOTE: 468_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 48_2019 (identical to 101_2017) is ignored but added at the end
+NOTE: 480_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 481_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 485_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 563_2016 (identical to 101_2017) is ignored but added at the end
+NOTE: 57_2017 (identical to 101_2017) is ignored but added at the end
+NOTE: 609_2015 (identical to 101_2017) is ignored but added at the end
+NOTE: 653_2015 (identical to 101_2017) is ignored but added at the end
+NOTE: 704_2015 (identical to 101_2017) is ignored but added at the end
+NOTE: 73_2015 (identical to 101_2017) is ignored but added at the end
+NOTE: 89_2018 (identical to 101_2017) is ignored but added at the end
+NOTE: 91_2017 (identical to 101_2017) is ignored but added at the end
+NOTE: 97_2017 (identical to 101_2017) is ignored but added at the end
+NOTE: 270_2023 (identical to 103_2022) is ignored but added at the end
+NOTE: 151_2024 (identical to 146_2021) is ignored but added at the end
+NOTE: 158_2022 (identical to 146_2021) is ignored but added at the end
+NOTE: 54_2024 (identical to 146_2021) is ignored but added at the end
+NOTE: 69_2022 (identical to 146_2021) is ignored but added at the end
+NOTE: 250_2021 (identical to 147_2021) is ignored but added at the end
+NOTE: 251_2021 (identical to 147_2021) is ignored but added at the end
+NOTE: 34_2021 (identical to 147_2021) is ignored but added at the end
+NOTE: 52_2021 (identical to 147_2021) is ignored but added at the end
+NOTE: 68_2021 (identical to 147_2021) is ignored but added at the end
+NOTE: 71_2021 (identical to 147_2021) is ignored but added at the end
+NOTE: 272_2019 (identical to 166_2016) is ignored but added at the end
+NOTE: 302_2017 (identical to 166_2016) is ignored but added at the end
+NOTE: 320_2019 (identical to 166_2016) is ignored but added at the end
+NOTE: 374_2018 (identical to 166_2016) is ignored but added at the end
+NOTE: 46_2017 (identical to 166_2016) is ignored but added at the end
+NOTE: 562_2016 (identical to 166_2016) is ignored but added at the end
+NOTE: 246_2022 (identical to 175_2023) is ignored but added at the end
+NOTE: 4_2023 (identical to 175_2023) is ignored but added at the end
+NOTE: 51_2018 (identical to 201_2017) is ignored but added at the end
+NOTE: 358_2023 (identical to 218_2023) is ignored but added at the end
+NOTE: 244_2019 (identical to 227_2019) is ignored but added at the end
+NOTE: 279_2017 (identical to 227_2019) is ignored but added at the end
+NOTE: 435_2018 (identical to 298_2017) is ignored but added at the end
+NOTE: 9_2019 (identical to 298_2017) is ignored but added at the end
+NOTE: 52_2018 (identical to 30_2023) is ignored but added at the end
+NOTE: 696_2015 (identical to 30_2023) is ignored but added at the end
+Alignment was printed to /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.003 seconds
+Measuring multi-threading efficiency up to 11 CPU cores
+Increase to 10 rounds for branch lengths
+621 trees examined
+Threads: 1 / Time: 11.011 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -3721
+Threads: 2 / Time: 20.649 sec / Speedup: 0.533 / Efficiency: 27% / LogL: -3721
+BEST NUMBER OF THREADS: 1
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -2458.556
+Optimal log-likelihood: -2458.551
+Rate parameters:  A-C: 5.11022  A-G: 11.73361  A-T: 0.53136  C-G: 1.66637  C-T: 8.48461  G-T: 1.00000
+Base frequencies:  A: 0.328  C: 0.226  G: 0.196  T: 0.249
+Proportion of invariable sites: 0.457
+Gamma shape alpha: 0.543
+Parameters optimization took 1 rounds (0.014 sec)
+Time for fast ML tree search: 0.204 seconds
+
+NOTE: ModelFinder requires 7 MB RAM!
+ModelFinder will test up to 484 DNA models (sample size: 1110 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         2480.258     233 5426.515     5550.995     6594.338
+  2  GTR+F+I       2460.639     234 5389.279     5514.970     6562.114
+  3  GTR+F+G4      2460.410     234 5388.821     5514.512     6561.656
+  4  GTR+F+I+G4    2458.547     235 5387.095     5514.006     6564.942
+  5  GTR+F+R2      2460.854     235 5391.708     5518.618     6569.555
+  6  GTR+F+R3      2448.309     237 5370.618     5499.990     6558.490
+  7  GTR+F+R4      2447.296     239 5372.592     5504.454     6570.488
+ 14  GTR+F+I+R2    2460.288     236 5392.575     5520.713     6575.435
+ 15  GTR+F+I+R3    2458.574     238 5393.147     5523.761     6586.031
+ 24  SYM+I         2477.070     231 5416.140     5538.217     6573.938
+ 25  SYM+G4        2476.876     231 5415.753     5537.830     6573.552
+ 26  SYM+I+G4      2475.070     232 5414.139     5537.414     6576.950
+ 28  SYM+R3        2466.037     234 5400.073     5525.765     6572.908
+ 46  TVM+F+I       2461.060     233 5388.121     5512.600     6555.944
+ 47  TVM+F+G4      2460.861     233 5387.722     5512.202     6555.545
+ 48  TVM+F+I+G4    2458.959     234 5385.918     5511.610     6558.753
+ 50  TVM+F+R3      2449.120     236 5370.240     5498.378     6553.100
+ 68  TVMe+I        2478.181     230 5416.363     5537.250     6569.149
+ 69  TVMe+G4       2478.016     230 5416.032     5536.919     6568.818
+ 70  TVMe+I+G4     2476.163     231 5414.325     5536.403     6572.124
+ 72  TVMe+R3       2466.901     233 5399.803     5524.282     6567.626
+ 90  TIM3+F+I      2463.653     232 5391.306     5514.581     6554.117
+ 91  TIM3+F+G4     2463.448     232 5390.897     5514.172     6553.708
+ 92  TIM3+F+I+G4   2461.512     233 5389.023     5513.502     6556.846
+ 94  TIM3+F+R3     2450.642     235 5371.283     5498.194     6549.130
+112  TIM3e+I       2482.607     229 5423.214     5542.918     6570.988
+113  TIM3e+G4      2482.407     229 5422.815     5542.519     6570.589
+114  TIM3e+I+G4    2480.559     230 5421.118     5542.006     6573.905
+116  TIM3e+R3      2470.077     232 5404.153     5527.428     6566.964
+134  TIM2+F+I      2471.479     232 5406.958     5530.233     6569.769
+135  TIM2+F+G4     2471.348     232 5406.696     5529.971     6569.507
+136  TIM2+F+I+G4   2469.397     233 5404.793     5529.273     6572.616
+138  TIM2+F+R3     2458.083     235 5386.166     5513.077     6564.013
+156  TIM2e+I       2487.577     229 5433.155     5552.859     6580.929
+157  TIM2e+G4      2487.475     229 5432.950     5552.654     6580.724
+158  TIM2e+I+G4    2485.573     230 5431.147     5552.034     6583.934
+160  TIM2e+R3      2475.191     232 5414.381     5537.656     6577.192
+178  TIM+F+I       2466.792     232 5397.584     5520.859     6560.395
+179  TIM+F+G4      2466.619     232 5397.239     5520.514     6560.050
+180  TIM+F+I+G4    2464.650     233 5395.301     5519.780     6563.124
+182  TIM+F+R3      2453.143     235 5376.286     5503.196     6554.133
+200  TIMe+I        2485.153     229 5428.307     5548.011     6576.081
+201  TIMe+G4       2485.005     229 5428.010     5547.715     6575.784
+202  TIMe+I+G4     2483.108     230 5426.217     5547.104     6579.003
+204  TIMe+R3       2472.152     232 5408.304     5531.578     6571.114
+222  TPM3u+F+I     2464.513     231 5391.027     5513.104     6548.826
+223  TPM3u+F+G4    2464.336     231 5390.673     5512.750     6548.471
+224  TPM3u+F+I+G4  2462.349     232 5388.697     5511.972     6551.508
+226  TPM3u+F+R3    2450.838     234 5369.676     5495.367     6542.511
+244  TPM3+I        2483.644     228 5423.287     5541.816     6566.050
+245  TPM3+G4       2483.474     228 5422.948     5541.476     6565.710
+246  TPM3+I+G4     2481.563     229 5421.126     5540.831     6568.901
+248  TPM3+R3       2470.484     231 5402.968     5525.045     6560.767
+266  TPM2u+F+I     2472.338     231 5406.676     5528.754     6564.475
+267  TPM2u+F+G4    2472.240     231 5406.481     5528.558     6564.279
+268  TPM2u+F+I+G4  2470.238     232 5404.476     5527.751     6567.287
+270  TPM2u+F+R3    2458.194     234 5384.387     5510.079     6557.222
+288  TPM2+I        2488.685     228 5433.371     5551.900     6576.133
+289  TPM2+G4       2488.619     228 5433.238     5551.767     6576.000
+290  TPM2+I+G4     2486.658     229 5431.315     5551.020     6579.089
+292  TPM2+R3       2475.600     231 5413.199     5535.277     6570.998
+310  K3Pu+F+I      2467.656     231 5397.311     5519.388     6555.110
+311  K3Pu+F+G4     2467.515     231 5397.030     5519.107     6554.828
+312  K3Pu+F+I+G4   2465.497     232 5394.994     5518.269     6557.805
+314  K3Pu+F+R3     2453.527     234 5375.055     5500.746     6547.890
+332  K3P+I         2486.164     228 5428.329     5546.858     6571.091
+333  K3P+G4        2486.055     228 5428.111     5546.639     6570.873
+334  K3P+I+G4      2484.094     229 5426.188     5545.892     6573.962
+336  K3P+R3        2472.718     231 5407.436     5529.514     6565.235
+354  TN+F+I        2473.331     231 5408.662     5530.740     6566.461
+355  TN+F+G4       2473.200     231 5408.401     5530.478     6566.199
+356  TN+F+I+G4     2471.164     232 5406.329     5529.604     6569.140
+358  TN+F+R3       2458.550     234 5385.100     5510.792     6557.935
+376  TNe+I         2491.558     228 5439.116     5557.645     6581.878
+377  TNe+G4        2491.433     228 5438.866     5557.395     6581.628
+378  TNe+I+G4      2489.483     229 5436.966     5556.670     6584.740
+380  TNe+R3        2477.581     231 5417.162     5539.240     6574.961
+398  HKY+F+I       2474.200     230 5408.399     5529.287     6561.186
+399  HKY+F+G4      2474.104     230 5408.207     5529.095     6560.994
+400  HKY+F+I+G4    2472.033     231 5406.065     5528.143     6563.864
+402  HKY+F+R3      2459.245     233 5384.490     5508.969     6552.312
+420  K2P+I         2492.576     227 5439.152     5556.513     6576.902
+421  K2P+G4        2492.491     227 5438.982     5556.343     6576.733
+422  K2P+I+G4      2490.488     228 5436.977     5555.506     6579.739
+424  K2P+R3        2478.347     230 5416.693     5537.581     6569.480
+442  F81+F+I       2508.685     229 5475.370     5595.075     6623.144
+443  F81+F+G4      2508.595     229 5475.190     5594.894     6622.964
+444  F81+F+I+G4    2506.594     230 5473.189     5594.076     6625.976
+446  F81+F+R3      2494.974     232 5453.948     5577.223     6616.759
+464  JC+I          2525.836     226 5503.672     5619.871     6636.410
+465  JC+G4         2525.742     226 5503.483     5619.683     6636.221
+466  JC+I+G4       2523.778     227 5501.556     5618.917     6639.306
+468  JC+R3         2512.502     229 5483.004     5602.708     6630.778
+Akaike Information Criterion:           TPM3u+F+R3
+Corrected Akaike Information Criterion: TPM3u+F+R3
+Bayesian Information Criterion:         TPM3u+F+R3
+Best-fit model: TPM3u+F+R3 chosen according to BIC
+
+All model information printed to /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.model.gz
+CPU time for ModelFinder: 32.042 seconds (0h:0m:32s)
+Wall-clock time for ModelFinder: 34.896 seconds (0h:0m:34s)
+Generating 1000 samples for ultrafast bootstrap (seed: 19830)...
+
+NOTE: 2 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2494.973
+2. Current log-likelihood: -2459.740
+3. Current log-likelihood: -2450.618
+Optimal log-likelihood: -2450.553
+Rate parameters:  A-C: 5.26806  A-G: 14.72707  A-T: 1.00000  C-G: 5.26806  C-T: 14.72707  G-T: 1.00000
+Base frequencies:  A: 0.328  C: 0.226  G: 0.196  T: 0.249
+Site proportion and rates:  (0.756,0.145) (0.243,3.265) (0.001,86.591)
+Parameters optimization took 3 rounds (0.072 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.0188699 secs using 99.77% CPU
+Computing ML distances took 0.018933 sec (of wall-clock time) 0.018879 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000175953 secs using 86.39% CPU
+Computing RapidNJ tree took 0.000686 sec (of wall-clock time) 0.000627 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -2461.280
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.159 second
+Computing log-likelihood of 98 initial trees ... 0.216 seconds
+Current best score: -2442.866
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2438.875
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -2434.427
+Iteration 10 / LogL: -2448.150 / Time: 0h:0m:36s
+Iteration 20 / LogL: -2447.226 / Time: 0h:0m:37s
+Finish initializing candidate tree set (20)
+Current best tree score: -2434.427 / CPU time: 2.826
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2434.470 / Time: 0h:0m:39s (0h:0m:10s left)
+Iteration 40 / LogL: -2442.018 / Time: 0h:0m:40s (0h:0m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 46: -2434.099
+Iteration 50 / LogL: -2434.742 / Time: 0h:0m:41s (0h:0m:12s left)
+Log-likelihood cutoff on original alignment: -2477.718
+Iteration 60 / LogL: -2438.673 / Time: 0h:0m:42s (0h:0m:11s left)
+Iteration 70 / LogL: -2434.746 / Time: 0h:0m:43s (0h:0m:9s left)
+Iteration 80 / LogL: -2435.528 / Time: 0h:0m:44s (0h:0m:8s left)
+Iteration 90 / LogL: -2435.206 / Time: 0h:0m:46s (0h:0m:7s left)
+Iteration 100 / LogL: -2442.298 / Time: 0h:0m:47s (0h:0m:5s left)
+Log-likelihood cutoff on original alignment: -2477.718
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.979
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -2437.781 / Time: 0h:0m:48s (0h:0m:11s left)
+Iteration 120 / LogL: -2440.510 / Time: 0h:0m:49s (0h:0m:9s left)
+Iteration 130 / LogL: -2434.444 / Time: 0h:0m:50s (0h:0m:8s left)
+Iteration 140 / LogL: -2441.828 / Time: 0h:0m:52s (0h:0m:7s left)
+Iteration 150 / LogL: -2434.112 / Time: 0h:0m:53s (0h:0m:6s left)
+Log-likelihood cutoff on original alignment: -2477.718
+Iteration 160 / LogL: -2437.964 / Time: 0h:0m:54s (0h:0m:5s left)
+Iteration 170 / LogL: -2434.124 / Time: 0h:0m:56s (0h:0m:3s left)
+Iteration 180 / LogL: -2434.440 / Time: 0h:0m:57s (0h:0m:2s left)
+Iteration 190 / LogL: -2434.112 / Time: 0h:0m:58s (0h:0m:1s left)
+Iteration 200 / LogL: -2434.108 / Time: 0h:0m:59s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -2477.718
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.993
+TREE SEARCH COMPLETED AFTER 200 ITERATIONS / Time: 0h:1m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2434.099
+2. Current log-likelihood: -2434.081
+3. Current log-likelihood: -2434.059
+4. Current log-likelihood: -2434.042
+5. Current log-likelihood: -2434.028
+6. Current log-likelihood: -2434.018
+Optimal log-likelihood: -2434.005
+Rate parameters:  A-C: 6.48054  A-G: 15.66833  A-T: 1.00000  C-G: 6.48054  C-T: 15.66833  G-T: 1.00000
+Base frequencies:  A: 0.328  C: 0.226  G: 0.196  T: 0.249
+Site proportion and rates:  (0.754,0.299) (0.244,2.396) (0.002,94.690)
+Parameters optimization took 6 rounds (0.087 sec)
+BEST SCORE FOUND : -2434.005
+Creating bootstrap support values...
+Split supports printed to NEXUS file /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.splits.nex
+Total tree length: 0.138
+
+Total number of iterations: 200
+CPU time used for tree search: 24.894 sec (0h:0m:24s)
+Wall-clock time used for tree search: 24.976 sec (0h:0m:24s)
+Total CPU time used: 57.265 sec (0h:0m:57s)
+Total wall-clock time used: 60.228 sec (0h:1m:0s)
+
+Computing bootstrap consensus tree...
+Reading input file /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.splits.nex...
+114 taxa and 3701 splits.
+Consensus tree written to /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.contree
+Reading input trees file /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.contree
+Log-likelihood of consensus tree: -2434.527
+
+Analysis results written to: 
+  IQ-TREE report:                /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.iqtree
+  Maximum-likelihood tree:       /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.treefile
+  Likelihood distances:          /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.splits.nex
+  Consensus tree:                /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.contree
+  Screen log file:               /Users/kirstyn.brunker/GitHub/RABV_Arequipa_2025/processed_data/nt_alignments/gene_alignments/redcap_download_20251009_0935_n167.renamed.aln_nc.fasta.log
+
+Date and Time: Fri Oct 17 14:39:01 2025

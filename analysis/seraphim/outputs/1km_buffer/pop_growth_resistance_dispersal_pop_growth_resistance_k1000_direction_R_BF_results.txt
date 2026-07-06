@@ -1,0 +1,3 @@
+BF
+null_raster	NA
+per_pop_2025_CN_100m_R2025A_v1_R	0.0638

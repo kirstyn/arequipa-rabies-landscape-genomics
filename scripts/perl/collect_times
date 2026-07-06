@@ -1,0 +1,67 @@
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+# Check arguments
+my $num_args = $#ARGV + 1;
+if (($num_args != 1) && ($num_args != 3)) {
+    print "Usage: collect_times <burn_in> [from_state] [to_state]\n";    
+    exit(-1);
+}
+
+# Burn-in and optional filtering
+my $burn_in = $ARGV[0];
+my $print_all = 1;
+my ($from, $to);
+if ($num_args == 3) {
+    $print_all = 0;
+    ($from, $to) = ($ARGV[1], $ARGV[2]);
+} else {
+    ($from, $to) = ("ALL", "ALL");
+}
+
+print STDERR "Removing states < $burn_in as burn-in.\n";
+print STDERR "Recording jumps from $from to $to.\n";
+
+# Skip first 3 lines (header info in BEAST jump history)
+for (my $i = 0; $i < 3; $i++) {
+    my $line = <STDIN>;
+}
+
+# Initialize counters
+my $stateCount = 0;
+my $jumpCount  = 0;
+
+# Print CSV header once
+print "state,from,to,time\n";
+
+# Process each line
+while (my $line = <STDIN>) {
+    chomp($line);
+    my ($state, $count, $jumpf) = split('\t', $line, 3);
+
+    if ($state >= $burn_in) {
+        $stateCount++;
+        # Remove redundant total count at the end of jump string
+        $jumpf =~ s/\s\d+$//;
+
+        # Split individual jumps
+        my @jumps = split('},{', $jumpf);
+        foreach my $tmp (@jumps) {
+            $tmp =~ s/\{\{//;
+            $tmp =~ s/\}\}//;
+
+            my ($site, $time, $ori, $dest) = split(',', $tmp, 4);
+
+            # Filter if needed
+            if ($print_all == 1 || ($ori eq $from && $dest eq $to)) {
+                $jumpCount++;
+                # Print CSV row
+                print "$state,$ori,$dest,$time\n";
+            }
+        }
+    }
+}
+
+print STDERR "Total state counts = $stateCount , total jumps = $jumpCount\n";

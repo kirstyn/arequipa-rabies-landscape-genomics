@@ -1,0 +1,3 @@
+BF
+null_raster	NA
+SES_class_C	0.2195

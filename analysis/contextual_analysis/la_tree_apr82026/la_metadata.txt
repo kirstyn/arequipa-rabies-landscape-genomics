@@ -1,0 +1,1816 @@
+primary_accession	country	length	EPA_major_clade	host		
+AB377128	Brazil	203	Cosmopolitan	Bos taurus		
+AB377127	Brazil	203	Cosmopolitan	Bos taurus		
+AB377126	Brazil	203	Cosmopolitan	Bos taurus		
+AB377125	Brazil	203	Cosmopolitan	Bos taurus		
+KF831540	Peru	220	Cosmopolitan	Canis familiaris		
+AY649953	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649952	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649951	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649950	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649949	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649948	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649947	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649946	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649945	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649944	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649943	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649942	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649941	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649940	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649939	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649938	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649937	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649936	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649935	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649934	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649933	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649932	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649931	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649930	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649929	Colombia	258	Cosmopolitan	Urocyon cinereoargenteus		
+AY649928	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649927	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649926	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649925	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649924	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649923	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649922	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649921	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649920	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649919	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649918	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649917	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649916	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649915	Colombia	258	Cosmopolitan	Canis familiaris		
+AY649914	Colombia	258	Cosmopolitan	Canis familiaris		
+AF269292	Colombia	258	Cosmopolitan	Canis familiaris		
+AF269291	Colombia	258	Cosmopolitan	Homo sapiens		
+AF189361	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189360	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189359	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189358	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189357	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189356	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189355	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189354	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189353	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189352	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189350	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189349	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189348	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189347	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189346	Colombia	258	Cosmopolitan	Canis familiaris		
+AF189344	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192397	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192396	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192395	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192394	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192393	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192392	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192391	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192390	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192389	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192388	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192387	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192386	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192385	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192384	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192383	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192382	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192381	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192380	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192379	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192378	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192377	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192375	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192374	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192373	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192372	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192371	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192415	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192413	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192412	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192411	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192410	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192409	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192408	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192406	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192405	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192404	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192403	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192402	Colombia	258	Cosmopolitan	Homo sapiens		
+AY192401	Colombia	258	Cosmopolitan	Canis familiaris		
+AY192400	Colombia	258	Cosmopolitan	Homo sapiens		
+AY192399	Colombia	258	Cosmopolitan	Homo sapiens		
+AF276903	Colombia	258	Cosmopolitan	Homo sapiens		
+AF271113	Colombia	258	Cosmopolitan	Canis familiaris		
+AF271112	Colombia	258	Cosmopolitan	Canis familiaris		
+AF271111	Colombia	258	Cosmopolitan	Canis familiaris		
+AF271109	Colombia	258	Cosmopolitan	Canis familiaris		
+MT872395	Colombia	263	Cosmopolitan	dog		
+EU530729	Peru	264	Cosmopolitan	Vulpes vulpes		
+EU530728	Peru	264	Cosmopolitan	Capra hircus		
+EU530727	Peru	264	Cosmopolitan	Canis familiaris		
+EU530726	Peru	264	Cosmopolitan	donkey		
+EU530725	Peru	264	Cosmopolitan	Homo sapiens		
+EU530723	Peru	264	Cosmopolitan	Felis catus		
+EU530722	Peru	264	Cosmopolitan	Canis familiaris		
+EU530721	Peru	264	Cosmopolitan	Canis familiaris		
+EU530720	Peru	264	Cosmopolitan	Canis familiaris		
+EU530719	Peru	264	Cosmopolitan	Canis familiaris		
+EU530718	Peru	264	Cosmopolitan	Canis familiaris		
+EU530717	Peru	264	Cosmopolitan	llama		
+EU530716	Peru	264	Cosmopolitan	Canis familiaris		
+EU530715	Peru	264	Cosmopolitan	Canis familiaris		
+EU530714	Peru	264	Cosmopolitan	Canis familiaris		
+EU530713	Peru	264	Cosmopolitan	Bos taurus		
+EU530712	Peru	264	Cosmopolitan	Bos taurus		
+EU530711	Peru	264	Cosmopolitan	Canis familiaris		
+EU530710	Peru	264	Cosmopolitan	Canis familiaris		
+EU530709	Peru	264	Cosmopolitan	Canis familiaris		
+EU530708	Peru	264	Cosmopolitan	Canis familiaris		
+EU530707	Peru	264	Cosmopolitan	Homo sapiens		
+EU530706	Peru	264	Cosmopolitan	Canis familiaris		
+EU530705	Peru	264	Cosmopolitan	Canis familiaris		
+EU530704	Peru	264	Cosmopolitan	Homo sapiens		
+EU530703	Peru	264	Cosmopolitan	Sus scrofa		
+EU530702	Peru	264	Cosmopolitan	Sus scrofa		
+EU530701	Peru	264	Cosmopolitan	Canis familiaris		
+EU530700	Peru	264	Cosmopolitan	Canis familiaris		
+EU530699	Peru	264	Cosmopolitan	Canis familiaris		
+EU530698	Peru	264	Cosmopolitan	Canis familiaris		
+FJ228687	Mexico	264	Cosmopolitan	skunk		
+FJ228675	El Salvador	264	Cosmopolitan	Homo sapiens		
+EF377695	Colombia	264	Cosmopolitan	Bos taurus		
+EF377694	Colombia	264	Cosmopolitan	Felis catus		
+EF377693	Colombia	264	Cosmopolitan	Bos taurus		
+EF377692	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377691	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377690	Colombia	264	Cosmopolitan	Bos taurus		
+EF377689	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377688	Colombia	264	Cosmopolitan	Bos taurus		
+EF377687	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377685	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377684	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377683	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377682	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377681	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377680	Colombia	264	Cosmopolitan	Bos taurus		
+EF377679	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377673	Colombia	264	Cosmopolitan	Bos taurus		
+EF377672	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377670	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377655	Colombia	264	Cosmopolitan	Bos taurus		
+EF377654	Colombia	264	Cosmopolitan	Bos taurus		
+EF377653	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377652	Colombia	264	Cosmopolitan	Bos taurus		
+EF377651	Colombia	264	Cosmopolitan	Sus scrofa		
+EF377650	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377649	Colombia	264	Cosmopolitan	Bos taurus		
+EF377648	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377647	Colombia	264	Cosmopolitan	Equus caballus		
+EF377646	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377645	Colombia	264	Cosmopolitan	Capra hircus		
+EF377644	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377643	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377642	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377641	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377640	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377639	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377638	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377637	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377636	Colombia	264	Cosmopolitan	Equus caballus		
+EF377635	Colombia	264	Cosmopolitan	Bos taurus		
+EF377634	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377633	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377632	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377631	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377630	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377629	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377628	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377627	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377626	Colombia	264	Cosmopolitan	Equus caballus		
+EF377625	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377624	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377623	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377622	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377621	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377620	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377619	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377618	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377617	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377616	Colombia	264	Cosmopolitan	Felis catus		
+EF377615	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377614	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377613	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377612	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377611	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377610	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377609	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377608	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377607	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377606	Colombia	264	Cosmopolitan	Felis catus		
+EF377605	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377604	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377603	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377602	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377601	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377600	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377599	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377598	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377597	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377596	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377595	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377594	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377593	Colombia	264	Cosmopolitan	Felis catus		
+EF377592	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377591	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377590	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377589	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377588	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377587	Colombia	264	Cosmopolitan	Canis familiaris		
+EF377586	Colombia	264	Cosmopolitan	Felis catus		
+EF377585	Colombia	264	Cosmopolitan	Homo sapiens		
+EF377584	Colombia	264	Cosmopolitan	Vulpes vulpes		
+EF377583	Colombia	264	Cosmopolitan	Vulpes vulpes		
+MT872392	Colombia	264	Cosmopolitan	fox		
+MT872391	Colombia	264	Cosmopolitan	dog		
+MT872390	Colombia	264	Cosmopolitan	swine		
+MT872383	Colombia	264	Cosmopolitan	fox		
+MT872379	Colombia	264	Cosmopolitan	dog		
+AY561806	Mexico	267	Cosmopolitan	Mephitis mephitis		
+AY561794	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561822	Mexico	267	Cosmopolitan	Mephitidae		
+AY561821	Mexico	267	Cosmopolitan			
+AY561820	Mexico	267	Cosmopolitan	Dasyprocta		
+AY561819	Mexico	267	Cosmopolitan	Dasyprocta		
+AY561818	Mexico	267	Cosmopolitan	Cervidae		
+AY561817	Mexico	267	RAC-SK			
+AY561816	Mexico	267	RAC-SK			
+AY561815	Mexico	267	RAC-SK			
+AY561814	Mexico	267	RAC-SK			
+AY561813	Mexico	267	RAC-SK			
+AY561812	Mexico	267	RAC-SK			
+AY561811	Mexico	267	RAC-SK			
+AY561810	Mexico	267	RAC-SK			
+AY561809	Mexico	267	Cosmopolitan	Bos taurus		
+AY561808	Mexico	267	Cosmopolitan	Mephitidae		
+AY561807	Mexico	267	Cosmopolitan	Mephitidae		
+AY561805	Mexico	267	Cosmopolitan	Mephitis mephitis		
+AY561804	Mexico	267	Cosmopolitan	Mephitis mephitis		
+AY561803	Mexico	267	Cosmopolitan	Lynx rufus		
+AY561802	Mexico	267	Cosmopolitan	Puma Concolor		
+AY561801	Mexico	267	Cosmopolitan	Urocyon cinereoargenteus		
+AY561800	Mexico	267	Cosmopolitan	Lynx rufus		
+AY561799	Mexico	267	Cosmopolitan	Urocyon cinereoargenteus		
+AY561798	Mexico	267	Cosmopolitan	Urocyon cinereoargenteus		
+AY561797	Mexico	267	Cosmopolitan	Sus scrofa		
+AY561796	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561795	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561793	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561792	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561791	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561790	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561789	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561788	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561787	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561786	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561785	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561784	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561783	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561782	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561781	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561780	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561779	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561778	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561777	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561776	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561775	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561774	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561773	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561772	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561771	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561770	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561769	Mexico	267	Cosmopolitan	Felis catus		
+AY561768	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561767	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561766	Mexico	267	Cosmopolitan	Canis familiaris		
+AY561765	Mexico	267	Cosmopolitan	Bos taurus		
+AY561764	Mexico	267	Cosmopolitan	Canis latrans		
+AY561763	Mexico	267	Cosmopolitan	Felis catus		
+AY561762	Mexico	267	Cosmopolitan	Felis catus		
+GU646853	Brazil	319	Cosmopolitan	Felis catus		
+GU646833	Brazil	319	Cosmopolitan	Bos taurus		
+DQ447968	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447967	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447966	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447965	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447964	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447963	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447962	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447959	Brazil	320	Cosmopolitan	P. cancrivorous		
+DQ447958	Brazil	320	Cosmopolitan	C. thous		
+DQ447957	Brazil	320	Cosmopolitan	C. thous		
+DQ447956	Brazil	320	Cosmopolitan	C. thous		
+DQ447955	Brazil	320	Cosmopolitan	Canis familiaris		
+DQ447954	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447951	Brazil	320	Cosmopolitan	C. thous		
+DQ447950	Brazil	320	Cosmopolitan	Canis familiaris		
+DQ447949	Brazil	320	Cosmopolitan	Homo sapiens		
+DQ447948	Brazil	320	Cosmopolitan	C. thous		
+DQ447947	Brazil	320	Cosmopolitan	Homo sapiens		
+AY233425	Argentina	320	Cosmopolitan	Felis catus		
+AY233424	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233423	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233422	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233421	Argentina	320	Cosmopolitan	Felis catus		
+AY233420	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233419	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233418	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233417	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233416	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233415	Argentina	320	Cosmopolitan	Felis catus		
+AY233414	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233413	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233412	Argentina	320	Cosmopolitan	Felis catus		
+AY233411	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233410	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233409	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233408	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233407	Argentina	320		Canis familiaris		
+AY233406	Argentina	320		Vulpes vulpes		
+AY233405	Argentina	320		Canis familiaris		
+AY233404	Argentina	320		Canis familiaris		
+AY233403	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233402	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233401	Argentina	320	Cosmopolitan	Canis familiaris		
+AY233400	Argentina	320		Canis familiaris		
+AY233399	Argentina	320		Canis familiaris		
+AY233398	Argentina	320		Canis familiaris		
+JN106463	Brazil	320	Cosmopolitan	Canis familiaris		
+JN106462	Brazil	320	Cosmopolitan	Canis familiaris		
+JN106461	Brazil	320	Cosmopolitan	Canis familiaris		
+KU312297	Paraguay	320		Canis lupus familiaris		
+KU312296	Paraguay	320		Canis lupus familiaris		
+KU312295	Paraguay	320		Canis lupus familiaris		
+KU312294	Paraguay	320		Canis lupus familiaris		
+KU312293	Paraguay	320		Canis lupus familiaris		
+KU312292	Paraguay	320		Canis lupus familiaris		
+KU312291	Paraguay	320		Canis lupus familiaris		
+KU312290	Paraguay	320		Canis lupus familiaris		
+KU312289	Paraguay	320		Canis lupus familiaris		
+KU312288	Paraguay	320		Canis lupus familiaris		
+KU312287	Paraguay	320		Canis lupus familiaris		
+KU312286	Paraguay	320		Canis lupus familiaris		
+KU312285	Paraguay	320		Canis lupus familiaris		
+JX217812	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217809	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217806	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217804	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217803	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217802	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217801	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217799	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217797	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217795	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217794	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217793	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217792	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217791	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217790	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217789	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217788	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217787	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217784	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217782	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217781	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217780	Brazil	320	Cosmopolitan	Homo sapiens		
+JX217779	Brazil	320	Cosmopolitan	Homo sapiens		
+AY340786	Bolivia	320	Cosmopolitan	Homo sapiens		
+AY340785	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340784	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340781	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340780	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340779	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340778	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340777	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340776	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340775	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340774	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340773	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340772	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340770	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340769	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340768	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340767	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340766	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340765	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340764	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340763	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340762	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340761	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340760	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340759	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340758	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340757	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340756	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340755	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340754	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340753	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340752	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340751	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340750	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340749	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340748	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340747	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340746	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340745	Bolivia	320	Cosmopolitan	Sus scrofa		
+AY340744	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340743	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340742	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340741	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340740	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340739	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340738	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340737	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340736	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340735	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340734	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340733	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340732	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340731	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340730	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340729	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340728	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340727	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340726	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340725	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340724	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340723	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340722	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340721	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340720	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340719	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340718	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340717	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340716	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340715	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340714	Bolivia	320	Cosmopolitan	Bos taurus		
+AY340713	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340712	Bolivia	320	Cosmopolitan	Felis catus		
+AY340711	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340710	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340709	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340708	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340707	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340706	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340705	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340704	Bolivia	320	Cosmopolitan	Canis familiaris		
+AY340703	Bolivia	320	Cosmopolitan	Canis familiaris		
+GU646855	Brazil	320	Cosmopolitan	Felis catus		
+GU646854	Brazil	320	Cosmopolitan	Felis catus		
+GU646852	Brazil	320	Cosmopolitan	Felis catus		
+GU646851	Brazil	320	Cosmopolitan	Felis catus		
+GU646850	Brazil	320	Cosmopolitan	Felis catus		
+GU646847	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646840	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646839	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646838	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646837	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646836	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646835	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646834	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646832	Brazil	320	Cosmopolitan	Bos taurus		
+GU646831	Brazil	320	Cosmopolitan	Bos taurus		
+GU646830	Brazil	320	Cosmopolitan	Bos taurus		
+GU646829	Brazil	320	Cosmopolitan	Bos taurus		
+GU646814	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646813	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646812	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646811	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646810	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646809	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646808	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646807	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646806	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646805	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646804	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646803	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646802	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646801	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646800	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646799	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646798	Brazil	320	Cosmopolitan	Canis familiaris		
+GU646797	Brazil	320	Cosmopolitan	Canis familiaris		
+DQ275596	Puerto Rico	370	Cosmopolitan	mongoose		
+AF352633	Mexico	384	Cosmopolitan	Tadarida brasiliensis (insectivorous bat)		
+DQ275568	Puerto Rico	392	Cosmopolitan	mongoose		
+DQ275580	Puerto Rico	395	Cosmopolitan	Felis catus		
+U22862	Brazil	400	Cosmopolitan	Canis familiaris		
+HQ116829	Chile	405	Cosmopolitan	Homo sapiens		
+DQ275591	Puerto Rico	419	Cosmopolitan	mongoose		
+JF950553	Brazil	428	RAC-SK	Myotis nigricans		
+MN549362	Mexico	429	Cosmopolitan	bovine		
+DQ275575	Puerto Rico	431	Cosmopolitan			
+DQ497416	Brazil	438	Cosmopolitan	Canis		
+DQ497415	Brazil	438	Cosmopolitan	Canis		
+JN897340	Brazil	444	Asian	Molossus molossus		
+JN897338	Brazil	444	Asian	Nyctinomops laticaudatus		
+JN897320	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897319	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897318	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897317	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897316	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897315	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897314	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897313	Brazil	444	Cosmopolitan	Canis familiaris		
+JN897312	Brazil	444	Cosmopolitan	Cerdocyon thous		
+JN897311	Brazil	444	Cosmopolitan	Cerdocyon thous		
+JN897310	Brazil	444	Cosmopolitan	Cerdocyon thous		
+JN897309	Brazil	444	Cosmopolitan	Cerdocyon thous		
+PV857575	Brazil	477	Cosmopolitan	dog		
+PV857574	Brazil	477	Cosmopolitan	dog		
+MK887206	Mexico	483	Cosmopolitan	Desmodus rotundus		
+MK887205	Mexico	483	Cosmopolitan	Desmodus rotundus		
+MK887204	Mexico	483	Cosmopolitan	Desmodus rotundus		
+MK887203	Mexico	483	Cosmopolitan	Desmodus rotundus		
+PV891643	Brazil	496	Cosmopolitan	dog		
+PV891642	Brazil	496	Cosmopolitan	dog		
+PV891641	Brazil	496	Cosmopolitan	dog		
+PV891640	Brazil	496	Cosmopolitan	dog		
+KR902345	Mexico	501	Cosmopolitan	Canis familiaris		
+DQ661014	Brazil	513	Cosmopolitan	Felis catus		
+DQ837177	Cuba	518	Cosmopolitan	Sus scrofa		
+DQ837168	Cuba	520	Cosmopolitan	Canis familiaris		
+DQ837175	Cuba	523	Cosmopolitan	Canis familiaris		
+EF675757	Brazil	526	Cosmopolitan			
+AY962094	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962093	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962092	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962091	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962090	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962089	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962086	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962084	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962081	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962080	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962079	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962077	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962076	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962059	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962058	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962057	Brazil	528	Cosmopolitan	Vulpes vulpes		
+AY962054	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962049	Brazil	528	Cosmopolitan	Canis familiaris		
+AY962048	Brazil	528	Cosmopolitan	Canis familiaris		
+AY854563	Cuba	529	Cosmopolitan	Ovis aries		
+AY854553	Cuba	529	Cosmopolitan	Canis familiaris		
+AY854549	Cuba	529	Cosmopolitan	Sus scrofa		
+AY854537	Cuba	529	Cosmopolitan	Ovis aries		
+AY854523	Cuba	529	Cosmopolitan	Canis familiaris		
+AY854516	Cuba	529	Cosmopolitan	Bos taurus		
+AY854514	Cuba	529	Cosmopolitan	Felis catus		
+AY854577	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854572	Cuba	530	Cosmopolitan	Felis catus		
+AY854571	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854570	Cuba	530	Cosmopolitan	mongoose		
+AY854568	Cuba	530	Cosmopolitan	mongoose		
+AY854566	Cuba	530	Cosmopolitan	Felis catus		
+AY854565	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854557	Cuba	530	Cosmopolitan	Felis catus		
+AY854556	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854555	Cuba	530	Cosmopolitan	mongoose		
+AY854551	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854543	Cuba	530	Cosmopolitan	mongoose		
+AY854542	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854541	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854540	Cuba	530	Cosmopolitan	Felis catus		
+AY854539	Cuba	530	Cosmopolitan	mongoose		
+AY854538	Cuba	530	Cosmopolitan	mongoose		
+AY854535	Cuba	530	Cosmopolitan	mongoose		
+AY854533	Cuba	530	Cosmopolitan	mongoose		
+AY854532	Cuba	530	Cosmopolitan	Felis catus		
+AY854528	Cuba	530	Cosmopolitan	Bos taurus		
+AY854526	Cuba	530	Cosmopolitan	Bos taurus		
+AY854522	Cuba	530	Cosmopolitan	Bos taurus		
+AY854521	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854519	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854518	Cuba	530	Cosmopolitan	mongoose		
+AY854517	Cuba	530	Cosmopolitan	Bos taurus		
+AY854513	Cuba	530	Cosmopolitan	mongoose		
+AY854512	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854511	Cuba	530	Cosmopolitan	Felis catus		
+AY854510	Cuba	530	Cosmopolitan	Canis familiaris		
+AY854509	Cuba	530	Cosmopolitan	mongoose		
+AY854508	Cuba	530	Cosmopolitan	mongoose		
+AY854503	Cuba	530	Cosmopolitan	Bos taurus		
+AY854502	Cuba	530	Cosmopolitan	mongoose		
+DQ837176	Cuba	531	Cosmopolitan	Capra hircus		
+AY563516	Brazil	533	Cosmopolitan	Homo sapiens		
+AY998299	Mexico	539	Cosmopolitan	Canis familiaris		
+DQ837181	Cuba	541	Cosmopolitan	Canis familiaris		
+KF831564	Peru	543	Cosmopolitan	Canis familiaris		
+DQ837172	Cuba	544	Cosmopolitan	Canis familiaris		
+DQ837171	Cuba	547	Cosmopolitan	Bos taurus		
+DQ837179	Cuba	548	Cosmopolitan	Canis familiaris		
+DQ837169	Cuba	548	Cosmopolitan	Canis familiaris		
+DQ837167	Cuba	548	Cosmopolitan	Felis catus		
+DQ837180	Cuba	549	Cosmopolitan	Canis familiaris		
+DQ837173	Cuba	549	Cosmopolitan	Ovis aries		
+OQ672732	Brazil	549	RAC-SK	insectivorous bat		
+DQ837182	Cuba	551	Cosmopolitan	Ovis aries		
+DQ837184	Cuba	552	Cosmopolitan	Felis catus		
+PV091163	Cuba	552	Cosmopolitan	feline		
+DQ837183	Cuba	557	Cosmopolitan	mongoose		
+DQ837170	Cuba	566	Cosmopolitan	Felis catus		
+DQ837178	Cuba	579	Cosmopolitan	mongoose		
+EU665202	Argentina	584	Cosmopolitan			
+DQ275585	Puerto Rico	585	Cosmopolitan	mongoose		
+MW302204	Argentina	586	Asian	Myotis sp.		
+MW302203	Argentina	586	Asian	Myotis sp.		
+MW302202	Argentina	586	Asian	Myotis sp.		
+MW302195	Argentina	586		Canis lupus familiaris		
+MW302194	Argentina	586	Cosmopolitan	Canis lupus familiaris		
+MW302193	Argentina	586	Cosmopolitan	Canis lupus familiaris		
+DQ275594	Puerto Rico	598	Cosmopolitan	mongoose		
+DQ275567	Puerto Rico	598	Cosmopolitan	mongoose		
+DQ275597	Puerto Rico	599	Cosmopolitan	Felis catus		
+DQ275587	Puerto Rico	599	Cosmopolitan	mongoose		
+AB247451	Brazil	599	Cosmopolitan	Sus		
+AB247449	Brazil	599	Cosmopolitan	Canis lupus familiaris		
+AB247444	Brazil	599	Cosmopolitan	Bos taurus		
+AB247417	Brazil	599	Cosmopolitan	Canis familiaris		
+AB247413	Brazil	599	Cosmopolitan	Canis familiaris		
+AB247409	Brazil	599	Cosmopolitan	Felis catus		
+AB247408	Brazil	599	Cosmopolitan	Felis catus		
+AB247448	Brazil	599	Cosmopolitan	Homo sapiens		
+AB247439	Brazil	599	Cosmopolitan	Homo sapiens		
+AB247438	Brazil	599	Cosmopolitan	Homo sapiens		
+AB247397	Brazil	599	Cosmopolitan	Bos taurus		
+AF357285	Brazil	600	Cosmopolitan	Desmodus rotundus		
+DQ275595	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275593	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275590	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275588	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275586	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275584	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275572	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275571	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275570	Puerto Rico	604	Cosmopolitan	mongoose		
+DQ275576	Puerto Rico	605	Cosmopolitan	mongoose		
+DQ275573	Puerto Rico	605	Cosmopolitan	mongoose		
+DQ275578	Puerto Rico	607	Cosmopolitan	Canis familiaris		
+DQ275566	Puerto Rico	607	Cosmopolitan	mongoose		
+AY998283	Mexico	607	Cosmopolitan	Canis familiaris		
+AY998258	Mexico	607	Cosmopolitan	skunk		
+AY998256	Mexico	607	Cosmopolitan	Canis familiaris		
+AY998254	Mexico	607	Cosmopolitan	Lynx rufus		
+AY998249	Mexico	607	Cosmopolitan	Lynx rufus		
+AY998248	Mexico	607	Cosmopolitan	Canis familiaris		
+AY998247	Mexico	607	Cosmopolitan	skunk		
+AB291107	Brazil	609	Cosmopolitan	Dusicyon sp.		
+AB291106	Brazil	609	Cosmopolitan	Dusicyon sp.		
+AB291105	Brazil	609	Cosmopolitan	Dusicyon sp.		
+AB291104	Brazil	609	Cosmopolitan	Dusicyon sp.		
+AB291103	Brazil	609	Cosmopolitan	Dusicyon sp.		
+AB291091	Brazil	609	Cosmopolitan	Canis familiaris		
+AB291090	Brazil	609	Cosmopolitan	Canis familiaris		
+AB291089	Brazil	609	Cosmopolitan	Canis familiaris		
+AB291088	Brazil	609	Cosmopolitan	Canis familiaris		
+AB291087	Brazil	609	Cosmopolitan	Canis familiaris		
+AB291086	Brazil	609	Cosmopolitan	Felis catus		
+AB291085	Brazil	609	Cosmopolitan	Felis catus		
+AB291084	Brazil	609	Cosmopolitan	Felis catus		
+DQ275574	Puerto Rico	610	Cosmopolitan	mongoose		
+DQ275564	Puerto Rico	613	Cosmopolitan	mongoose		
+DQ275581	Puerto Rico	616	Cosmopolitan	Canis familiaris		
+DQ275565	Puerto Rico	616	Cosmopolitan	mongoose		
+PV091145	Cuba	654	Cosmopolitan	Canis lupus familiaris		
+PV891639	Brazil	655	Cosmopolitan	dog		
+PV891638	Brazil	655	Cosmopolitan	dog		
+PV091164	Cuba	660	Cosmopolitan	feline		
+PV891645	Brazil	661	Cosmopolitan	Homo sapiens		
+PP536670	Brazil	714	Cosmopolitan			
+PP536669	Brazil	714	Cosmopolitan	mice		
+PP536668	Brazil	714	Cosmopolitan	mice		
+PP536667	Brazil	714	Cosmopolitan	mice		
+PP536666	Brazil	714	Cosmopolitan	mice		
+PP536665	Brazil	714	Cosmopolitan	mice		
+PP536664	Brazil	714	Cosmopolitan	mice		
+PP536663	Brazil	714	Cosmopolitan	mice		
+PP536662	Brazil	714	Cosmopolitan	mice		
+PP536661	Brazil	714	Cosmopolitan	mice		
+PP536660	Brazil	714	Cosmopolitan			
+PP536659	Brazil	714	Cosmopolitan			
+PP536658	Brazil	714	Cosmopolitan			
+PP536657	Brazil	714	Cosmopolitan			
+PP536656	Brazil	714	Cosmopolitan			
+PP536655	Brazil	714	Cosmopolitan			
+PP536654	Brazil	714	Cosmopolitan			
+PP536653	Brazil	714	Cosmopolitan			
+PP536652	Brazil	714	Cosmopolitan	mice		
+PP536651	Brazil	714	Cosmopolitan	mice		
+PP536650	Brazil	714	Cosmopolitan	mice		
+PP536649	Brazil	714	Cosmopolitan	mice		
+PP536648	Brazil	714	Cosmopolitan	mice		
+PP536647	Brazil	714	Cosmopolitan	mice		
+PP536646	Brazil	714	Cosmopolitan	mice		
+PP536645	Brazil	714	Cosmopolitan	mice		
+PP536644	Brazil	714	Cosmopolitan	mice		
+PV091157	Cuba	735	Cosmopolitan	Canis lupus familiaris		
+OK247536	Mexico	737	Cosmopolitan	puma		
+OK247535	Mexico	749	Cosmopolitan	puma		
+PV091152	Cuba	756	Cosmopolitan	Canis lupus familiaris		
+OK247534	Mexico	764	Cosmopolitan	fox		
+OK247533	Mexico	764	Cosmopolitan	bob cat		
+OK247532	Mexico	764	Cosmopolitan	skunk		
+OK247531	Mexico	764	Cosmopolitan	puma		
+OK247530	Mexico	764	Cosmopolitan	puma		
+OK247529	Mexico	764	Cosmopolitan	puma		
+OK247528	Mexico	764	Cosmopolitan	puma		
+OK247527	Mexico	764	Cosmopolitan	equine		
+PX738155	Haiti	774	Cosmopolitan	dog		
+EU665201	Argentina	787	Cosmopolitan			
+PV091158	Cuba	792	Cosmopolitan	Canis lupus familiaris		
+JQ037818	Mexico	794	RAC-SK	skunk		
+PP105589	Mexico	795	Cosmopolitan	Felis catus		
+PP105588	Mexico	795	Cosmopolitan	Felis catus		
+PP105587	Mexico	795	Cosmopolitan	Felis catus		
+PP105586	Mexico	795	Cosmopolitan	Felis catus		
+PP105585	Mexico	795	Cosmopolitan	Felis catus		
+PP105584	Mexico	795	Cosmopolitan	Felis catus		
+PP105583	Mexico	795	Cosmopolitan	Felis catus		
+PP105582	Mexico	795	Cosmopolitan	Felis catus		
+AY998244	Mexico	796	Cosmopolitan	Homo sapiens		
+AY998275	Mexico	799	RAC-SK	skunk		
+DQ275569	Puerto Rico	813	Cosmopolitan	mongoose		
+PV091160	Cuba	816	Cosmopolitan	mangoose		
+PQ963932	Mexico	829	Cosmopolitan	skunk		
+PQ963931	Mexico	829	Cosmopolitan	skunk		
+PQ963930	Mexico	829	Cosmopolitan	skunk		
+DQ275592	Puerto Rico	841	Cosmopolitan	mongoose		
+PV091149	Cuba	846	Cosmopolitan	Sus scrofa		
+DQ275583	Puerto Rico	858	Cosmopolitan	Canis familiaris		
+PV091159	Cuba	864	Cosmopolitan	mangoose		
+DQ275589	Puerto Rico	883	Cosmopolitan	mongoose		
+PV091147	Cuba	888	Cosmopolitan	mangoose		
+AB291136	Brazil	891	Cosmopolitan	Dusicyon sp.		
+PP583703	Brazil	891	Cosmopolitan			
+PP583702	Brazil	891	Cosmopolitan			
+PP583701	Brazil	891	Cosmopolitan			
+PP583700	Brazil	891	Cosmopolitan			
+PP583699	Brazil	891	Cosmopolitan			
+PP583698	Brazil	891	Cosmopolitan			
+PP583697	Brazil	891	Cosmopolitan			
+PP583696	Brazil	891	Cosmopolitan			
+PP583695	Brazil	891	Cosmopolitan			
+PP583694	Brazil	891	Cosmopolitan			
+PP583693	Brazil	891	Cosmopolitan			
+PP583692	Brazil	891	Cosmopolitan			
+PP583691	Brazil	891	Cosmopolitan			
+PP583690	Brazil	891	Cosmopolitan			
+PP583689	Brazil	891	Cosmopolitan			
+PP583688	Brazil	891	Cosmopolitan			
+PP583687	Brazil	891	Cosmopolitan			
+PP583686	Brazil	891	Cosmopolitan			
+PP583685	Brazil	891	Cosmopolitan			
+PP583684	Brazil	891	Cosmopolitan			
+PP583683	Brazil	891	Cosmopolitan	mice		
+PP583682	Brazil	891	Cosmopolitan	mice		
+PP583681	Brazil	891	Cosmopolitan	mice		
+PP583680	Brazil	891	Cosmopolitan	mice		
+PP583679	Brazil	891	Cosmopolitan	mice		
+PP583678	Brazil	891	Cosmopolitan	mice		
+PP583677	Brazil	891	Cosmopolitan	mice		
+PP583676	Brazil	891	Cosmopolitan	mice		
+PP583675	Brazil	891	Cosmopolitan	mice		
+AB291137	Brazil	894	Cosmopolitan	Dusicyon sp.		
+AB291133	Brazil	894	Cosmopolitan	Dusicyon sp.		
+AB291128	Brazil	894	Asian	Eptesicus furinalis		
+AB291127	Brazil	894	Asian	Eptesicus furinalis		
+AB291126	Brazil	894	Asian	Eptesicus furinalis		
+AB291125	Brazil	894	Asian	Eptesicus furinalis		
+AB291121	Brazil	894	Cosmopolitan	Canis familiaris		
+AB291120	Brazil	894	Cosmopolitan	Canis familiaris		
+AB291119	Brazil	894	Cosmopolitan	Canis familiaris		
+AB291118	Brazil	894	Cosmopolitan	Canis familiaris		
+AB291117	Brazil	894	Cosmopolitan	Canis familiaris		
+AB291116	Brazil	894	Cosmopolitan	Felis catus		
+AB291115	Brazil	894	Cosmopolitan	Felis catus		
+AB291114	Brazil	894	Cosmopolitan	Felis catus		
+PV091148	Cuba	900	Cosmopolitan	feline		
+AB291135	Brazil	906	Cosmopolitan	Dusicyon sp.		
+AB291134	Brazil	906	Cosmopolitan	Dusicyon sp.		
+AF369323	Peru	920	Cosmopolitan	Canis familiaris		
+AF369315	Paraguay	920	Cosmopolitan	Canis familiaris		
+AF369314	Brazil	920	Cosmopolitan	Canis familiaris		
+AF369313	Mexico	920	Cosmopolitan	Canis familiaris		
+AF369303	Puerto Rico	920	Cosmopolitan	Herpestes javanicus		
+DQ275579	Puerto Rico	933	Cosmopolitan	Equus caballus		
+DQ275563	Puerto Rico	933	Cosmopolitan	mongoose		
+DQ275577	Puerto Rico	934	Cosmopolitan	Canis familiaris		
+KC792221	Mexico	959	RAC-SK	skunk		
+DQ275582	Puerto Rico	964	Cosmopolitan	Canis familiaris		
+PV091150	Cuba	993	Cosmopolitan	mangoose		
+PV091165	Cuba	1005	Cosmopolitan	Canis lupus familiaris		
+PV091151	Cuba	1056	Cosmopolitan	Canis lupus familiaris		
+PV091155	Cuba	1077	Cosmopolitan	Canis lupus familiaris		
+PV091144	Cuba	1086	Cosmopolitan	Canis lupus familiaris		
+PV091167	Cuba	1119	Cosmopolitan	bovine		
+PV091143	Cuba	1119	Cosmopolitan	mangoose		
+PV091162	Cuba	1128	Cosmopolitan	mangoose		
+PV091153	Cuba	1143	Cosmopolitan	Canis lupus familiaris		
+PV091161	Cuba	1155	Cosmopolitan	Canis lupus familiaris		
+PV091142	Cuba	1161	Cosmopolitan	Canis lupus familiaris		
+PV091166	Cuba	1161	Cosmopolitan	Canis lupus familiaris		
+PV091146	Cuba	1164	Cosmopolitan	Canis lupus familiaris		
+PV091156	Cuba	1188	Cosmopolitan	Canis lupus familiaris		
+KJ001493	Mexico	1192	Cosmopolitan	Canis familiaris		
+KC792258	Mexico	1197	Cosmopolitan	Canis familiaris		
+PX952678	Brazil	1218	Cosmopolitan	bat		
+OP762295	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762294	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762293	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762292	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762291	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762290	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762289	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762288	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762287	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762286	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762285	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762284	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762283	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762282	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762281	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762280	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762279	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762278	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762277	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+OP762276	Brazil	1221	Cosmopolitan	Canis lupus familiaris		
+KJ001531	Mexico	1232	Cosmopolitan	Canis familiaris		
+KJ001532	Mexico	1251	Cosmopolitan	Canis familiaris		
+KJ001495	Mexico	1261	Cosmopolitan	Canis familiaris		
+KJ001507	Mexico	1285	Cosmopolitan	Canis familiaris		
+JQ037824	Mexico	1288	Cosmopolitan	Canis familiaris		
+JQ037823	Mexico	1288	Cosmopolitan	Canis familiaris		
+JQ037822	Mexico	1288	Cosmopolitan	Canis familiaris		
+JQ037821	Mexico	1288	Cosmopolitan	Canis familiaris		
+JQ037820	Mexico	1288	Cosmopolitan	Canis familiaris		
+JQ037819	Mexico	1288	Cosmopolitan	Canis familiaris		
+KJ001501	Mexico	1293	Cosmopolitan	Canis familiaris		
+KJ001533	Mexico	1295	Cosmopolitan	Canis familiaris		
+KJ001514	Mexico	1298	Cosmopolitan	Canis familiaris		
+KJ001511	Mexico	1298	Cosmopolitan	Canis familiaris		
+KJ001504	Mexico	1300	Cosmopolitan	Canis familiaris		
+KJ001512	Mexico	1302	Cosmopolitan	Canis familiaris		
+KJ001503	Mexico	1304	Cosmopolitan	Canis familiaris		
+KJ001498	Mexico	1304	Cosmopolitan	Canis familiaris		
+GU123662	Brazil	1305	Cosmopolitan	Cerdocyon thous		
+GU123661	Brazil	1305	Cosmopolitan	Cerdocyon thous		
+GU123660	Brazil	1305	Cosmopolitan	Cerdocyon thous		
+GU123659	Brazil	1305	Cosmopolitan	Cerdocyon thous		
+GU123658	Brazil	1305	Cosmopolitan	Cerdocyon thous		
+GU123657	Brazil	1305	Cosmopolitan	Cerdocyon thous		
+GU123656	Brazil	1305	Cosmopolitan	Canis familiaris		
+GU123655	Brazil	1305	Cosmopolitan	Canis familiaris		
+GU123654	Brazil	1305	Cosmopolitan	Canis familiaris		
+GU123653	Brazil	1305	Cosmopolitan	Canis familiaris		
+GU123652	Brazil	1305	Cosmopolitan	Canis familiaris		
+GU123651	Brazil	1305	Cosmopolitan	Felis catus		
+KJ001494	Mexico	1305	Cosmopolitan	Canis familiaris		
+KJ001497	Mexico	1306	Cosmopolitan	Canis familiaris		
+KJ001496	Mexico	1306	Cosmopolitan	Canis familiaris		
+KJ001489	Mexico	1306	Cosmopolitan	Canis familiaris		
+KJ001506	Mexico	1308	Cosmopolitan	Canis familiaris		
+KJ001536	Mexico	1315	Cosmopolitan	Canis familiaris		
+KJ001513	Mexico	1315	Cosmopolitan	Canis familiaris		
+KJ001508	Mexico	1315	Cosmopolitan	Canis familiaris		
+OL451904	Argentina	1329		Canis lupus familiaris		
+AB207884	Brazil	1332	Cosmopolitan	Vulpes		
+AB206413	Brazil	1332	Cosmopolitan	Vulpes		
+AB206412	Brazil	1332	Cosmopolitan	Vulpes		
+AB206411	Brazil	1332	Cosmopolitan	Vulpes vulpes		
+AB206410	Brazil	1332	Cosmopolitan	Vulpes		
+AB206409	Brazil	1332	Cosmopolitan	Vulpes		
+AB206408	Brazil	1332	Cosmopolitan	Vulpes		
+AB206407	Brazil	1332	Cosmopolitan	Vulpes		
+AB263299	Brazil	1332	Cosmopolitan	Felis catus		
+AB263298	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263297	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263295	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263294	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263293	Brazil	1332	Cosmopolitan	Felis catus		
+AB263292	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263345	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263344	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263343	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263342	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263341	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263340	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263339	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263338	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263337	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263336	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263335	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263334	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263332	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263331	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263330	Brazil	1332	Cosmopolitan	Felis catus		
+AB263329	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263328	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263327	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263326	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263324	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263323	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263322	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263321	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263320	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263319	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263318	Brazil	1332	Cosmopolitan	Felis catus		
+AB263317	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263316	Brazil	1332	Cosmopolitan	Felis catus		
+AB263315	Brazil	1332	Cosmopolitan	Felis catus		
+AB263314	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263313	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263312	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263311	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263310	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263309	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263308	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263307	Brazil	1332	Cosmopolitan	Felis catus		
+AB263306	Brazil	1332	Cosmopolitan	Felis catus		
+AB263305	Brazil	1332	Cosmopolitan	Felis catus		
+AB263304	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263303	Brazil	1332	Cosmopolitan	Felis catus		
+AB263302	Brazil	1332	Cosmopolitan	Felis catus		
+AB263301	Brazil	1332	Cosmopolitan	Felis catus		
+AB263300	Brazil	1332	Cosmopolitan	Canis familiaris		
+AB263296	Brazil	1332	Cosmopolitan	Felis catus		
+KJ001524	Mexico	1339	Cosmopolitan	Canis familiaris		
+KJ001535	Mexico	1340	Cosmopolitan	Canis familiaris		
+KJ001534	Mexico	1342	Cosmopolitan	Canis familiaris		
+KJ001530	Mexico	1342	Cosmopolitan	Spilogale sp.		
+KJ001529	Mexico	1342	Cosmopolitan	Spilogale sp.		
+KJ001525	Mexico	1342	Cosmopolitan	Canis familiaris		
+KJ001523	Mexico	1342	Cosmopolitan	Canis familiaris		
+KJ001510	Mexico	1346	Cosmopolitan	Canis familiaris		
+OL451905	Argentina	1346		Canis lupus familiaris		
+KJ001499	Mexico	1347	Cosmopolitan	Canis familiaris		
+KJ001492	Mexico	1347	Cosmopolitan	Canis familiaris		
+KJ001491	Mexico	1347	Cosmopolitan	Canis familiaris		
+KJ001490	Mexico	1347	Cosmopolitan	Canis familiaris		
+OL451901	Argentina	1347		Canis lupus familiaris		
+KJ001515	Mexico	1348	Cosmopolitan	Canis familiaris		
+OL451931	Argentina	1348	Cosmopolitan	Canis lupus familiaris		
+MK956101	Brazil	1350	Cosmopolitan	Canis lupus familiaris		
+MK956100	Brazil	1350	Cosmopolitan	Canis lupus familiaris		
+MK956099	Brazil	1350	Cosmopolitan	Canis lupus familiaris		
+MK956098	Brazil	1350	Cosmopolitan	Canis lupus familiaris		
+MK956097	Brazil	1350	Cosmopolitan	Canis lupus familiaris		
+KU963502	Puerto Rico	1350	Cosmopolitan	Canis familiaris		
+KU963496	Mexico	1350	Cosmopolitan	Urocyon cinereoargenteus		
+KU963494	Mexico	1350	Cosmopolitan	Canis familiaris		
+KU963490	Peru	1350	Cosmopolitan	Canis familiaris		
+GU991847	Mexico	1350	Cosmopolitan	Canis familiaris		
+GU991846	Mexico	1350	Cosmopolitan	Mephitis mephitis (skunk)		
+GU991845	Mexico	1350	Cosmopolitan	Mephitis mephitis (skunk)		
+GU991844	Mexico	1350	Cosmopolitan	Mephitis mephitis (skunk)		
+FJ228545	Mexico	1350	Cosmopolitan	Spilogale putorius		
+FJ228544	Mexico	1350	Cosmopolitan	Spilogale putorius		
+FJ228543	Mexico	1350	Cosmopolitan	Spilogale putorius		
+FJ228542	Mexico	1350	Cosmopolitan	Felis catus		
+FJ228540	Mexico	1350	Cosmopolitan	Felis catus		
+FJ228533	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228532	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228531	Mexico	1350	Cosmopolitan	Capra hircus		
+FJ228527	Mexico	1350	Cosmopolitan	Felis catus		
+FJ228526	Mexico	1350	Cosmopolitan	Canis latrans		
+FJ228525	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228524	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228523	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228522	Mexico	1350	Cosmopolitan	Bos taurus		
+FJ228521	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228519	Mexico	1350	Cosmopolitan	Felis catus		
+FJ228518	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228517	Honduras	1350	Cosmopolitan	Canis familiaris		
+FJ228516	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228515	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228514	Mexico	1350	Cosmopolitan	donkey		
+FJ228513	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228512	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228511	Mexico	1350	Cosmopolitan	Bos taurus		
+FJ228510	Mexico	1350	Cosmopolitan	Sus scrofa		
+FJ228509	Mexico	1350	Cosmopolitan	ferret		
+FJ228508	Mexico	1350	Cosmopolitan	Homo sapiens		
+FJ228507	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228506	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228505	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228504	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228503	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228502	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228501	Peru	1350	Cosmopolitan	Vulpes vulpes		
+FJ228500	Peru	1350	Cosmopolitan	Homo sapiens		
+FJ228499	Peru	1350	Cosmopolitan	Canis familiaris		
+FJ228498	Peru	1350	Cosmopolitan	Canis familiaris		
+FJ228497	Puerto Rico	1350	Cosmopolitan	Canis familiaris		
+FJ228496	Puerto Rico	1350	Cosmopolitan	Canis familiaris		
+FJ228495	Puerto Rico	1350	Cosmopolitan	mongoose		
+FJ228494	Mexico	1350	Cosmopolitan	Canis familiaris		
+FJ228485	Mexico	1350	RAC-SK	cow		
+FJ228484	Mexico	1350	RAC-SK	"Spilogale putorius leucoparia, skunk"		
+FJ228483	Mexico	1350	RAC-SK	"Spilogale putorius leucoparia, skunk"		
+JF693455	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+JF693454	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+JF693453	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+JF693452	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+JF693451	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+JF693450	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+JF693449	Colombia	1350	Cosmopolitan	Canis lupus familiaris		
+KJ001522	Mexico	1350	Cosmopolitan	Spilogale sp.		
+KJ001521	Mexico	1350	Cosmopolitan	Spilogale sp.		
+KJ001520	Mexico	1350	Cosmopolitan	Spilogale sp.		
+KJ001519	Mexico	1350	Cosmopolitan	Spilogale sp.		
+KJ001518	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001517	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001516	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001509	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001505	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001502	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001500	Mexico	1350	Cosmopolitan	Canis familiaris		
+KJ001488	Mexico	1350	Cosmopolitan	Canis familiaris		
+U22841	Mexico	1350	Cosmopolitan	Homo sapiens		
+U22477	Mexico	1350	Cosmopolitan	Canis familiaris		
+KU938904	Peru	1350	Cosmopolitan	Desmodus rotundus		
+OL451932	Argentina	1350	Cosmopolitan	Canis lupus familiaris		
+OL451930	Argentina	1350	Cosmopolitan	Canis lupus familiaris		
+PX738242	Haiti	1350	Cosmopolitan	dog		
+PX738159	Haiti	1350	Cosmopolitan	dog		
+PX738253	Haiti	1350	Cosmopolitan	dog		
+PX738139	Haiti	1350	Cosmopolitan	dog		
+PX738227	Haiti	1350	Cosmopolitan	dog		
+PX738180	Haiti	1350	Cosmopolitan	dog		
+PX738236	Haiti	1350	Cosmopolitan	dog		
+PX738207	Dominican Republic	1350	Cosmopolitan	dog		
+PX738214	Dominican Republic	1350	Cosmopolitan	cat		
+PX738153	Haiti	1350	Cosmopolitan	dog		
+PX738164	Haiti	1350	Cosmopolitan	dog		
+PX738129	Dominican Republic	1350	Cosmopolitan	cat		
+PX738191	Haiti	1350	Cosmopolitan	dog		
+PX738174	Dominican Republic	1350	Cosmopolitan	dog		
+PX738160	Haiti	1350	Cosmopolitan	dog		
+PX738148	Haiti	1350	Cosmopolitan	dog		
+PX738143	Haiti	1350	Cosmopolitan	dog		
+PX738140	Haiti	1350	Cosmopolitan	dog		
+PX738250	Haiti	1350	Cosmopolitan	dog		
+PX738254	Haiti	1350	Cosmopolitan	dog		
+PX738195	Haiti	1350	Cosmopolitan	Homo sapiens		
+PX738203	Dominican Republic	1350	Cosmopolitan	mongoose		
+PX738190	Haiti	1350	Cosmopolitan	dog		
+PX738257	Dominican Republic	1350	Cosmopolitan	mongoose		
+PX738138	Haiti	1350	Cosmopolitan	dog		
+PX738127	Dominican Republic	1350	Cosmopolitan	dog		
+PX738128	Dominican Republic	1350	Cosmopolitan	dog		
+PX738172	Dominican Republic	1350	Cosmopolitan	dog		
+PX738165	Haiti	1350	Cosmopolitan	dog		
+PX738201	Dominican Republic	1350	Cosmopolitan	dog		
+PX738163	Haiti	1350	Cosmopolitan	dog		
+PX738240	Haiti	1350	Cosmopolitan	dog		
+PX738239	Haiti	1350	Cosmopolitan	dog		
+PX738192	Haiti	1350	Cosmopolitan	dog		
+PX738188	Haiti	1350	Cosmopolitan	dog		
+PX738213	Dominican Republic	1350	Cosmopolitan	bovine		
+PX738251	Haiti	1350	Cosmopolitan	dog		
+PX738149	Haiti	1350	Cosmopolitan	cat		
+PX738247	Haiti	1350	Cosmopolitan	dog		
+PX738171	Dominican Republic	1350	Cosmopolitan	dog		
+PX738183	Haiti	1350	Cosmopolitan	dog		
+PX738185	Haiti	1350	Cosmopolitan	dog		
+PX738154	Haiti	1350	Cosmopolitan	dog		
+PX738216	Haiti	1350	Cosmopolitan	dog		
+PX738161	Haiti	1350	Cosmopolitan	dog		
+PX738197	Dominican Republic	1350	Cosmopolitan	Homo sapiens		
+PX738234	Haiti	1350	Cosmopolitan	dog		
+PX738228	Haiti	1350	Cosmopolitan	dog		
+PX738221	Haiti	1350	Cosmopolitan	dog		
+PX738150	Haiti	1350	Cosmopolitan	dog		
+PX738168	Haiti	1350	Cosmopolitan	dog		
+PX738223	Haiti	1350	Cosmopolitan	dog		
+PX738152	Haiti	1350	Cosmopolitan	dog		
+PX738226	Haiti	1350	Cosmopolitan	dog		
+PX738135	Haiti	1350	Cosmopolitan	dog		
+PX738252	Haiti	1350	Cosmopolitan	dog		
+PX738145	Haiti	1350	Cosmopolitan	dog		
+PX738176	Dominican Republic	1350	Cosmopolitan	cat		
+PX738225	Haiti	1350	Cosmopolitan	dog		
+PX738256	Dominican Republic	1350	Cosmopolitan	Homo sapiens		
+PX738137	Haiti	1350	Cosmopolitan	dog		
+PX738212	Dominican Republic	1350	Cosmopolitan	dog		
+PX738244	Haiti	1350	Cosmopolitan	dog		
+PX738136	Haiti	1350	Cosmopolitan	dog		
+PX738141	Haiti	1350	Cosmopolitan	dog		
+PX738245	Haiti	1350	Cosmopolitan	dog		
+PX738166	Haiti	1350	Cosmopolitan	dog		
+PX738241	Haiti	1350	Cosmopolitan	dog		
+PX738210	Dominican Republic	1350	Cosmopolitan	dog		
+PX738202	Dominican Republic	1350	Cosmopolitan	dog		
+PX738219	Haiti	1350	Cosmopolitan	dog		
+PX738229	Haiti	1350	Cosmopolitan	dog		
+PX738177	Dominican Republic	1350	Cosmopolitan	dog		
+PX738217	Haiti	1350	Cosmopolitan	dog		
+PX738189	Haiti	1350	Cosmopolitan	dog		
+PX738198	Dominican Republic	1350	Cosmopolitan	mongoose		
+PX738249	Haiti	1350	Cosmopolitan	dog		
+PX738178	Dominican Republic	1350	Cosmopolitan	dog		
+PX738200	Dominican Republic	1350	Cosmopolitan	horse		
+PX738193	Haiti	1350	Cosmopolitan	dog		
+PX738130	Dominican Republic	1350	Cosmopolitan	dog		
+PX738205	Dominican Republic	1350	Cosmopolitan	dog		
+PX738243	Haiti	1350	Cosmopolitan	goat		
+PX738211	Dominican Republic	1350	Cosmopolitan	dog		
+PX738222	Haiti	1350	Cosmopolitan	dog		
+PX738133	Haiti	1350	Cosmopolitan	dog		
+PX738238	Haiti	1350	Cosmopolitan	dog		
+PX738144	Haiti	1350	Cosmopolitan	dog		
+PX738162	Haiti	1350	Cosmopolitan	dog		
+PX738199	Dominican Republic	1350	Cosmopolitan	dog		
+PX738125	Dominican Republic	1350	Cosmopolitan	cat		
+PX738224	Haiti	1350	Cosmopolitan	dog		
+PX738255	Dominican Republic	1350	Cosmopolitan	Homo sapiens		
+PX738206	Dominican Republic	1350	Cosmopolitan	Homo sapiens		
+PX738134	Haiti	1350	Cosmopolitan	dog		
+PX738232	Haiti	1350	Cosmopolitan	dog		
+PX738237	Haiti	1350	Cosmopolitan	dog		
+PX738181	Haiti	1350	Cosmopolitan	dog		
+PX738151	Haiti	1350	Cosmopolitan	dog		
+PX738204	Dominican Republic	1350	Cosmopolitan	dog		
+PX738218	Haiti	1350	Cosmopolitan	dog		
+PX738215	Dominican Republic	1350	Cosmopolitan	dog		
+PX738187	Haiti	1350	Cosmopolitan	dog		
+PX738158	Haiti	1350	Cosmopolitan	dog		
+PX738167	Haiti	1350	Cosmopolitan	dog		
+PX738156	Haiti	1350	Cosmopolitan	dog		
+PX738231	Haiti	1350	Cosmopolitan	dog		
+PX738142	Haiti	1350	Cosmopolitan	dog		
+PX738248	Haiti	1350	Cosmopolitan	dog		
+PX738233	Haiti	1350	Cosmopolitan	dog		
+PX738157	Haiti	1350	Cosmopolitan	dog		
+PX738186	Haiti	1350	Cosmopolitan	dog		
+PX738131	Dominican Republic	1350	Cosmopolitan	dog		
+PX738179	Dominican Republic	1350	Cosmopolitan	dog		
+PX738230	Haiti	1350	Cosmopolitan	dog		
+PX738175	Dominican Republic	1350	Cosmopolitan	dog		
+PX738208	Dominican Republic	1350	Cosmopolitan	cat		
+PX738235	Haiti	1350	Cosmopolitan	dog		
+PX738170	Haiti	1350	Cosmopolitan	dog		
+PX738182	Haiti	1350	Cosmopolitan	dog		
+PX738132	Dominican Republic	1350	Cosmopolitan	dog		
+PX738246	Haiti	1350	Cosmopolitan	dog		
+PX738146	Haiti	1350	Cosmopolitan	dog		
+PX738196	Dominican Republic	1350	Cosmopolitan	Homo sapiens		
+PX738184	Haiti	1350	Cosmopolitan	dog		
+PX738173	Dominican Republic	1350	Cosmopolitan	dog		
+PX738169	Haiti	1350	Cosmopolitan	dog		
+PX738194	Dominican Republic	1350	Cosmopolitan	Homo sapiens		
+PX738220	Haiti	1350	Cosmopolitan	dog		
+PX738209	Dominican Republic	1350	Cosmopolitan	cat		
+PX738147	Haiti	1350	Cosmopolitan	dog		
+OL451921	Argentina	1352	Cosmopolitan	Canis lupus familiaris		
+KM067274	Grenada	1353	Cosmopolitan	Mongoose		
+KJ957452	Grenada	1353	Cosmopolitan	mongoose		
+KJ957451	Grenada	1353	Cosmopolitan	mongoose		
+KJ957450	Grenada	1353	Cosmopolitan	mongoose		
+KJ957449	Grenada	1353	Cosmopolitan	mongoose		
+KJ957448	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957447	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957446	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957445	Grenada	1353	Cosmopolitan	mongoose		
+KJ957444	Grenada	1353	Cosmopolitan	mongoose		
+KJ957443	Grenada	1353	Cosmopolitan	mongoose		
+KJ957442	Grenada	1353	Cosmopolitan	mongoose		
+KJ957441	Grenada	1353	Cosmopolitan	mongoose		
+KJ957440	Grenada	1353	Cosmopolitan	mongoose		
+KJ957439	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957438	Grenada	1353	Cosmopolitan	mongoose		
+KJ957437	Grenada	1353	Cosmopolitan	mongoose		
+KJ957436	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957435	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957434	Grenada	1353	Cosmopolitan	Felis catus		
+KJ957433	Grenada	1353	Cosmopolitan	Canis familiaris		
+KJ957432	Grenada	1353	Cosmopolitan	Capra hircus		
+KJ957431	Grenada	1353	Cosmopolitan	Canis familiaris		
+JQ513553	Mexico	1353	RAC-SK	skunk		
+PQ055821	Mexico	1353	Cosmopolitan	skunk		
+JQ513538	Puerto Rico	1353	Cosmopolitan	mongoose		
+JQ513537	Puerto Rico	1353	Cosmopolitan	mongoose		
+JQ513536	Puerto Rico	1353	Cosmopolitan	mongoose		
+JQ513535	Puerto Rico	1353	Cosmopolitan	mongoose		
+JQ513534	Puerto Rico	1353	Cosmopolitan	mongoose		
+JQ513533	Puerto Rico	1353	Cosmopolitan	mongoose		
+JQ513532	Puerto Rico	1353	Cosmopolitan	Canis familiaris		
+JQ513531	Puerto Rico	1353	Cosmopolitan	Canis familiaris		
+JQ513530	Puerto Rico	1353	Cosmopolitan	Canis familiaris		
+JQ513529	Puerto Rico	1353	Cosmopolitan	Felis catus		
+JQ513528	Puerto Rico	1353	Cosmopolitan	mongoose		
+EU086161	Colombia	1353	Cosmopolitan	Canis familiaris		
+OL451929	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451928	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451927	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451926	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451925	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451924	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451923	Argentina	1353	Cosmopolitan	monkey		
+OL451922	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451920	Argentina	1353	Cosmopolitan	Felis catus		
+OL451919	Argentina	1353	Cosmopolitan	Felis catus		
+OL451918	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451917	Argentina	1353	Cosmopolitan	Canis lupus familiaris		
+OL451916	Paraguay	1353	Cosmopolitan	Canis lupus familiaris		
+OL451915	Brazil	1353	Cosmopolitan	Canis lupus familiaris		
+OL451914	Argentina	1353		Canis lupus familiaris		
+OL451913	Argentina	1353		Canis lupus familiaris		
+OL451912	Argentina	1353		Cerdocyon thous		
+OL451911	Argentina	1353		Cerdocyon thous		
+OL451910	Argentina	1353		Cerdocyon thous		
+OL451909	Argentina	1353		Canis lupus familiaris		
+OL451908	Paraguay	1353		Canis lupus familiaris		
+OL451907	Paraguay	1353		Canis lupus familiaris		
+OL451906	Argentina	1353		Canis lupus familiaris		
+OL451903	Argentina	1353		Canis lupus familiaris		
+OL451902	Argentina	1353		Canis lupus familiaris		
+OL451900	Argentina	1353		Nasua nasua		
+OL451899	Argentina	1353		Canis lupus familiaris		
+OL451898	Argentina	1353		Cerdocyon thous		
+OL451897	Argentina	1353		Canis lupus familiaris		
+OL451896	Argentina	1353		Cerdocyon thous		
+OL451895	Argentina	1353		Canis lupus familiaris		
+OL451894	Argentina	1353		Canis lupus familiaris		
+OL451893	Argentina	1353		Nasua nasua		
+OL451892	Argentina	1353		Canis lupus familiaris		
+OL451891	Argentina	1353		Canis lupus familiaris		
+OL451890	Argentina	1353		Nasua nasua		
+OL451889	Argentina	1353		Canis lupus familiaris		
+OL451888	Argentina	1353		Canis lupus familiaris		
+OL451887	Argentina	1353		Cerdocyon thous		
+OL451886	Argentina	1353		Canis lupus familiaris		
+OL451885	Argentina	1353		Cerdocyon thous		
+OL451884	Argentina	1353		Canis lupus familiaris		
+OL451883	Argentina	1353		Canis lupus familiaris		
+OL451882	Argentina	1353		Canis lupus familiaris		
+OL451881	Argentina	1353		Canis lupus familiaris		
+OL451880	Argentina	1353		Canis lupus familiaris		
+OL451879	Argentina	1353		Canis lupus familiaris		
+OL451878	Argentina	1353		Canis lupus familiaris		
+MW055130	Haiti	1353	Cosmopolitan	dog		
+MW055129	Haiti	1353	Cosmopolitan	dog		
+MW055107	Guatemala	1353	Cosmopolitan	dog		
+KR781607	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781606	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781605	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781604	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781603	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781602	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781601	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781600	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781599	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781598	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781597	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781596	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781595	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781594	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781593	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781592	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781591	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781590	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781589	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781588	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781587	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781586	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781585	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781584	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781583	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781582	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781581	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781580	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781579	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781578	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781577	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781576	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781575	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781574	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781573	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781572	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781571	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781570	Brazil	1367	Cosmopolitan	Cerdocyon thous		
+KR781569	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781568	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781567	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781566	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781565	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781564	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781563	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781562	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781561	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781560	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781559	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781558	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781557	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781556	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781555	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781554	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781553	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781552	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781551	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781550	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781549	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781548	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781547	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781546	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781545	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781544	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781543	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781542	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781541	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781540	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781539	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781538	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781536	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781535	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781534	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781533	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781532	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781531	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781530	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781529	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781528	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781527	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781526	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781525	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781524	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781523	Brazil	1367	Cosmopolitan	Canis familiaris		
+KR781522	Brazil	1367	Cosmopolitan	Canis familiaris		
+AY854589	Mexico	1367	Cosmopolitan	Canis familiaris		
+AY854590	Mexico	1374	Cosmopolitan	Lynx rufus		
+EF363731	Brazil	1376	Cosmopolitan	Canis familiaris		
+AY854593	Mexico	1378	Cosmopolitan	skunk		
+AY854591	Mexico	1380	Cosmopolitan	Canis familiaris		
+DQ149104	Brazil	1394	Cosmopolitan	Vulpes vulpes		
+EF194167	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF194166	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF194165	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF194164	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF194163	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF194162	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF194161	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF194160	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF194159	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152280	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152279	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152278	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152277	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152276	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152275	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152274	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152273	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152272	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152271	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152270	Brazil	1394	Cosmopolitan	Pseudalopex vetulus		
+EF152269	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152268	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152267	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152266	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152265	Brazil	1394	Cosmopolitan	Felis catus		
+EF152264	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152263	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152262	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152261	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152260	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152259	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152258	Brazil	1394	Cosmopolitan	Homo sapiens		
+EF152257	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152256	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152255	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152254	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152253	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152252	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152251	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152250	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152249	Brazil	1394	Cosmopolitan	Canis familiaris		
+EF152248	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152247	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152246	Brazil	1394	Cosmopolitan	Pseudalopex vetulus		
+EF152245	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152244	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152243	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152242	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152241	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152240	Brazil	1394	Cosmopolitan	Felis catus		
+EF152239	Brazil	1394	Cosmopolitan	Felis catus		
+EF152238	Brazil	1394	Cosmopolitan	Felis catus		
+EF152237	Brazil	1394	Cosmopolitan	Felis catus		
+EF152236	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152235	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152234	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152233	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152232	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+EF152231	Brazil	1394	Cosmopolitan	Cerdocyon thous		
+AB083802	Brazil	1394	Cosmopolitan	Sus		
+AB083801	Brazil	1394	Cosmopolitan	Homo sapiens		
+AB083800	Brazil	1394	Cosmopolitan	Equus caballus		
+AB083799	Brazil	1394	Cosmopolitan	Bos		
+AB083798	Brazil	1394	Cosmopolitan	Canis lupus familiaris		
+AB083797	Brazil	1394	Cosmopolitan	Canis lupus familiaris		
+AB083796	Brazil	1394	Cosmopolitan	Canis lupus familiaris		
+AB083795	Brazil	1394	Cosmopolitan	Homo sapiens		
+AB083794	Brazil	1394	Cosmopolitan	Felis catus		
+AB083793	Brazil	1394	Cosmopolitan	Felis catus		
+AB083792	Brazil	1394	Cosmopolitan	Canis lupus familiaris		
+AY854578	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854576	Cuba	1402	Cosmopolitan	mongoose		
+AY854575	Cuba	1402	Cosmopolitan	Felis catus		
+AY854574	Cuba	1402	Cosmopolitan	Felis catus		
+AY854573	Cuba	1402	Cosmopolitan	mongoose		
+AY854569	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854567	Cuba	1402	Cosmopolitan	mongoose		
+AY854564	Cuba	1402	Cosmopolitan	Felis catus		
+AY854562	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854561	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854560	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854559	Cuba	1402	Cosmopolitan	Felis catus		
+AY854558	Cuba	1402	Cosmopolitan	mongoose		
+AY854554	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854552	Cuba	1402	Cosmopolitan	Capra hircus		
+AY854550	Cuba	1402	Cosmopolitan	Bos taurus		
+AY854548	Cuba	1402	Cosmopolitan	Ovis aries		
+AY854547	Cuba	1402	Cosmopolitan	Bos taurus		
+AY854546	Cuba	1402	Cosmopolitan	mongoose		
+AY854545	Cuba	1402	Cosmopolitan	Bos taurus		
+AY854544	Cuba	1402	Cosmopolitan	mongoose		
+AY854536	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854534	Cuba	1402	Cosmopolitan	Felis catus		
+AY854531	Cuba	1402	Cosmopolitan	mongoose		
+AY854530	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854529	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854527	Cuba	1402	Cosmopolitan	Felis catus		
+AY854525	Cuba	1402	Cosmopolitan	mongoose		
+AY854524	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854520	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854515	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854507	Cuba	1402	Cosmopolitan	Canis familiaris		
+AY854506	Cuba	1402	Cosmopolitan	Felis catus		
+AY854505	Cuba	1402	Cosmopolitan	mongoose		
+AY854504	Cuba	1402	Cosmopolitan	Canis familiaris		
+KU550103	Costa Rica	1430	Cosmopolitan	Homo sapiens		
+KC791796	Mexico	1540	RAC-SK	skunk		
+KC791809	Mexico	1541	RAC-SK	skunk		
+KC791795	Mexico	1542	RAC-SK	skunk		
+KC791799	Mexico	1544	RAC-SK	cow		
+KC792196	Mexico	1572	Cosmopolitan			
+KC792068	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC792067	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC792060	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC792059	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC792058	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC792057	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC792056	Dominican Republic	1572	Cosmopolitan	Canis familiaris		
+KC791961	Mexico	1572	Cosmopolitan	Canis latrans		
+KU888643	Chile	1575	Asian	Canis familiaris		
+AB518495	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518494	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518493	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518492	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518491	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518490	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518489	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB518488	Brazil	1575	Cosmopolitan	Felis catus		
+AB518487	Brazil	1575	Cosmopolitan	Felis catus		
+AB449214	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB449213	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB449212	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB449211	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247412	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247411	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247410	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247416	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247415	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247414	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247420	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247419	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247418	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247437	Brazil	1575	Cosmopolitan	Vulpes		
+AB247436	Brazil	1575	Cosmopolitan	Vulpes		
+AB247435	Brazil	1575	Cosmopolitan	Vulpes		
+AB247434	Brazil	1575	Cosmopolitan	Vulpes		
+AB247433	Brazil	1575	Cosmopolitan	Vulpes		
+AB247432	Brazil	1575	Cosmopolitan	Vulpes		
+AB247431	Brazil	1575	Cosmopolitan	Vulpes		
+AB247430	Brazil	1575	Cosmopolitan	Vulpes		
+AB247447	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247446	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB247445	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB276314	Brazil	1575	Cosmopolitan	Homo sapiens		
+AB276313	Brazil	1575	Cosmopolitan	Homo sapiens		
+AB276312	Brazil	1575	Cosmopolitan	Homo sapiens		
+AB276311	Brazil	1575	Cosmopolitan	Homo sapiens		
+AB276310	Brazil	1575	Cosmopolitan	Felis catus		
+AB276309	Brazil	1575	Cosmopolitan	Felis catus		
+AB276308	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+AB276307	Brazil	1575	Cosmopolitan	Homo sapiens		
+OP762225	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762224	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762223	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762222	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762221	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762220	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762219	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762218	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762217	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762216	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762215	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762214	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762213	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762212	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762211	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762210	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762209	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762208	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762207	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+OP762206	Brazil	1575	Cosmopolitan	Canis lupus familiaris		
+EU918650	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918649	Brazil	1889	Cosmopolitan	Pseudalopex vetulus		
+EU918648	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918647	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918646	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918645	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918644	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918643	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918642	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918641	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918640	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918639	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918638	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918637	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918636	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918635	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918634	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918633	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918632	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918631	Brazil	1889	Cosmopolitan	Pseudalopex vetulus		
+EU918630	Brazil	1889	Cosmopolitan	Cerdocyon thous		
+EU918629	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918628	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918627	Brazil	1889	Cosmopolitan	Felis catus		
+EU918626	Brazil	1889	Cosmopolitan	Felis catus		
+EU918625	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918624	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918623	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918622	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918621	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918620	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918619	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918618	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918617	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918616	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918615	Brazil	1889	Cosmopolitan	Canis familiaris		
+EU918614	Brazil	1889	Cosmopolitan	Canis familiaris		
+AB110661	Brazil	2066	Cosmopolitan	Sus scrofa domesticus		
+AB110660	Brazil	2066	Cosmopolitan	Equus caballus		
+AB110659	Brazil	2066	Cosmopolitan	Canis lupus familiaris		
+AB110658	Brazil	2066	Cosmopolitan	Canis lupus familiaris		
+AB110656	Brazil	2066	Cosmopolitan	Felis catus		
+AB110657	Brazil	2066	Cosmopolitan	Homo sapiens		
+AF325477	Mexico	2091	Cosmopolitan	Canis lupus familiaris		
+KX708503	Mexico	11793	Cosmopolitan	Canis familiaris		
+KX708502	Mexico	11793	Cosmopolitan	Canis familiaris		
+KX708501	Mexico	11794	Cosmopolitan	Canis familiaris		
+KX708500	Mexico	11794	Cosmopolitan	Canis familiaris		
+KX708499	Mexico	11794	Cosmopolitan	Canis familiaris		
+OM971005	Mexico	11794	Cosmopolitan	Nasua narica		
+OM971004	Mexico	11794	Cosmopolitan	Nasua narica		
+OM971003	Mexico	11794	Cosmopolitan	Nasua narica		
+KX708504	Mexico	11798	Cosmopolitan	Canis familiaris		
+KX148216	Brazil	11802	Cosmopolitan	Canis familiaris		
+KX148112	Mexico	11802	Cosmopolitan	Homo sapiens		
+KX148111	Mexico	11802	Cosmopolitan	Canis familiaris		
+KX148110	Mexico	11802	Cosmopolitan	Canis familiaris		
+KX148215	Brazil	11803	Cosmopolitan	Canis familiaris		
+KX148214	Brazil	11803	Cosmopolitan	Canis familiaris		
+KX148217	Brazil	11804	Cosmopolitan	Canis familiaris		
+PP965374	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965372	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965371	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965370	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965369	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965368	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965366	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965365	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965364	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965363	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965361	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965359	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965358	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965357	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965356	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965354	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965353	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965351	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965350	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965349	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965347	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965346	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965345	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965344	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965343	Peru	11830	Cosmopolitan	Canis lupus familiaris		
+PP965362	Peru	11834	Cosmopolitan	Canis lupus familiaris		
+PP965367	Peru	11869	Cosmopolitan	Canis lupus familiaris		
+PP965360	Peru	11874	Cosmopolitan	Canis lupus familiaris		
+KM594039	Brazil	11881	Cosmopolitan	Cerdocyon thous		
+PP965348	Peru	11884	Cosmopolitan	Canis lupus familiaris		
+PP965352	Peru	11893	Cosmopolitan	Canis lupus familiaris		
+KU938829	Peru	11900	Cosmopolitan	Desmodus rotundus		
+PP965355	Peru	11904	Cosmopolitan	Bos taurus		
+PQ055822	Mexico	11921	Cosmopolitan	skunk		
+KT006769	Mexico	11922	Cosmopolitan	Canis familiaris		
+KX148102	Mexico	11922	Cosmopolitan	Canis familiaris		
+PP965373	Peru	11922	Cosmopolitan	Bos taurus		
+JQ685954	Mexico	11923	RAC-SK	Spilogale putorius (Spotted skunk)		
+JQ685929	Mexico	11923	RAC-SK	Spilogale putorius (Spotted skunk)		
+KU938752	Peru	11923	Cosmopolitan	Desmodus rotundus		
+AB517659	Brazil	11923	Cosmopolitan	Canis lupus familiaris		
+LT909544	Mexico	11924	Cosmopolitan	Canis lupus familiaris		
+HQ450386	Mexico	11924	Cosmopolitan	Canis familiaris		
+AB362483	Brazil	11924	Cosmopolitan	Dusicyon sp.		
+LT909543	Chile	11925	Cosmopolitan			
+LT909530	Chile	11925	Cosmopolitan	Homo sapiens		
+MG458319	Grenada	11925	Cosmopolitan	mongoose		
+JQ685975	Mexico	11925	Cosmopolitan	Spilogale putorius		
+AB517660	Brazil	11925	Cosmopolitan	Vulpes		
+OK564514	Mexico	11925	Cosmopolitan	horse		
+236_2019	-	-	Cosmopolitan	AM5		
+100_2023	-	-	Cosmopolitan	AM5		
+145_2022	-	-	Cosmopolitan	AM5		
+209_2018	-	-	Cosmopolitan	AM5		
+182_2019	-	-	Cosmopolitan	AM5		
+172_2022	-	-	Cosmopolitan	AM5		
+280_2022	-	-	Cosmopolitan	AM5		
+23_2020	-	-	Cosmopolitan	AM5		
+272_2019	-	-	Cosmopolitan	AM5		
+159_2017	-	-	Cosmopolitan	AM5		
+22_2018	-	-	Cosmopolitan	AM5		
+374_2018	-	-	Cosmopolitan	AM5		
+255_2019	-	-	Cosmopolitan	AM5		
+375_2018	-	-	Cosmopolitan	AM5		
+696_2015	-	-	Cosmopolitan	AM5		
+481_2016	-	-	Cosmopolitan	AM5		
+291_2016	-	-	Cosmopolitan	AM5		
+576_2016	-	-	Cosmopolitan	AM5		
+201_2017	-	-	Cosmopolitan	AM5		
+275_2017	-	-	Cosmopolitan	AM5		
+563_2016	-	-	Cosmopolitan	AM5		
+480_2016	-	-	Cosmopolitan	AM5		
+91_2017	-	-	Cosmopolitan	AM5		
+73_2015	-	-	Cosmopolitan	AM5		
+52_2018	-	-	Cosmopolitan	AM5		
+357_2016	-	-	Cosmopolitan	AM5		
+247_2018	-	-	Cosmopolitan	AM5		
+112_2017	-	-	Cosmopolitan	AM5		
+56_2021	-	-	Cosmopolitan	AM5		
+10_2021	-	-	Cosmopolitan	AM5		
+219_2022	-	-	Cosmopolitan	AM5		
+232_2023	-	-	Cosmopolitan	AM5		
+183_2023	-	-	Cosmopolitan	AM5		
+10_2020	-	-	Cosmopolitan	AM5		
+386_2016	-	-	Cosmopolitan	AM5		
+495_2016	-	-	Cosmopolitan	AM5		
+562_2016	-	-	Cosmopolitan	AM5		
+298_2017	-	-	Cosmopolitan	AM5		
+202_2021	-	-	Cosmopolitan	AM5		
+71_2021	-	-	Cosmopolitan	AM5		
+147_2021	-	-	Cosmopolitan	AM5		
+54_2024	-	-	Cosmopolitan	AM5		
+704_2015	-	-	Cosmopolitan	AM5		
+711_2015	-	-	Cosmopolitan	AM5		
+52_2021	-	-	Cosmopolitan	AM5		
+126_2021	-	-	Cosmopolitan	AM5		
+69_2022	-	-	Cosmopolitan	AM5		
+609_2015	-	-	Cosmopolitan	AM5		
+101_2017	-	-	Cosmopolitan	AM5		
+367_2015	-	-	Cosmopolitan	AM5		
+279_2017	-	-	Cosmopolitan	AM5		
+442_2016	-	-	Cosmopolitan	AM5		
+42_2020	-	-	Cosmopolitan	AM5		
+272_2017	-	-	Cosmopolitan	AM5		
+15_2021	-	-	Cosmopolitan	AM5		
+653_2015	-	-	Cosmopolitan	AM5		
+240_2019	-	-	Cosmopolitan	AM5		
+88_2019	-	-	Cosmopolitan	AM5		
+114_2015	-	-	Cosmopolitan	AM5		
+41_2020	-	-	Cosmopolitan	AM5		
+151_2024	-	-	Cosmopolitan	AM5		
+315_2017	-	-	Cosmopolitan	AM5		
+242_2019	-	-	Cosmopolitan	AM5		
+246_2022	-	-	Cosmopolitan	AM5		
+35_2018	-	-	Cosmopolitan	AM5		
+90_2021	-	-	Cosmopolitan	AM5		
+336_2019	-	-	Cosmopolitan	AM5		
+140_2018	-	-	Cosmopolitan	AM5		
+41_2024	-	-	Cosmopolitan	AM5		
+447_2018	-	-	Cosmopolitan	AM5		
+320_2019	-	-	Cosmopolitan	AM5		
+485_2016	-	-	Cosmopolitan	AM5		
+462_2016	-	-	Cosmopolitan	AM5		
+166_2016	-	-	Cosmopolitan	AM5		
+44_2016	-	-	Cosmopolitan	AM5		
+571_2016	-	-	Cosmopolitan	AM5		
+32_2016	-	-	Cosmopolitan	AM5		
+69_2016	-	-	Cosmopolitan	AM5		
+2_2017	-	-	Cosmopolitan	AM5		
+46_2017	-	-	Cosmopolitan	AM5		
+131_2019	-	-	Cosmopolitan	AM5		
+175_2023	-	-	Cosmopolitan	AM5		
+333_2018	-	-	Cosmopolitan	AM5		
+302_2016	-	-	Cosmopolitan	AM5		
+289_2019	-	-	Cosmopolitan	AM5		
+186_2018	-	-	Cosmopolitan	AM5		
+251_2021	-	-	Cosmopolitan	AM5		
+92_2018	-	-	Cosmopolitan	AM5		
+1101786	-	-	Cosmopolitan	AM5		
+56_2023	-	-	Cosmopolitan	AM5		
+259_2017	-	-	Cosmopolitan	AM5		
+130_2016	-	-	Cosmopolitan	AM5		
+534_2016	-	-	Cosmopolitan	AM5		
+231_2021	-	-	Cosmopolitan	AM5		
+57_2017	-	-	Cosmopolitan	AM5		
+319_2017	-	-	Cosmopolitan	AM5		
+225_2017	-	-	Cosmopolitan	AM5		
+97_2017	-	-	Cosmopolitan	AM5		
+93_2018	-	-	Cosmopolitan	AM5		
+12_2017	-	-	Cosmopolitan	AM5		
+302_2017	-	-	Cosmopolitan	AM5		
+145_2017	-	-	Cosmopolitan	AM5		
+46_2019	-	-	Cosmopolitan	AM5		
+402_2017	-	-	Cosmopolitan	AM5		
+34_2021	-	-	Cosmopolitan	AM5		
+31_2021	-	-	Cosmopolitan	AM5		
+312_2019	-	-	Cosmopolitan	AM5		
+162_2018	-	-	Cosmopolitan	AM5		
+1203037	-	-	Cosmopolitan	AM5		
+146_2021	-	-	Cosmopolitan	AM5		
+4_2023	-	-	Cosmopolitan	AM5		
+244_2019	-	-	Cosmopolitan	AM5		
+286_2022	-	-	Cosmopolitan	AM5		
+358_2023	-	-	Cosmopolitan	AM5		
+47_2019	-	-	Cosmopolitan	AM5		
+73_2021	-	-	Cosmopolitan	AM5		
+107_2021	-	-	Cosmopolitan	AM5		
+225_2019	-	-	Cosmopolitan	AM5		
+162_2024	-	-	Cosmopolitan	AM5		
+250_2021	-	-	Cosmopolitan	AM5		
+273_2023	-	-	Cosmopolitan	AM5		
+140_2020	-	-	Cosmopolitan	AM5		
+103_2022	-	-	Cosmopolitan	AM5		
+89_2018	-	-	Cosmopolitan	AM5		
+48_2019	-	-	Cosmopolitan	AM5		
+30_2021	-	-	Cosmopolitan	AM5		
+68_2021	-	-	Cosmopolitan	AM5		
+40_2025	-	-	Cosmopolitan	AM5		
+61_2021	-	-	Cosmopolitan	AM5		
+121_2019	-	-	Cosmopolitan	AM5		
+173_2022	-	-	Cosmopolitan	AM5		
+270_2023	-	-	Cosmopolitan	AM5		
+158_2022	-	-	Cosmopolitan	AM5		
+213_2021	-	-	Cosmopolitan	AM5		
+227_2019	-	-	Cosmopolitan	AM5		
+16_2021	-	-	Cosmopolitan	AM5		
+51_2018	-	-	Cosmopolitan	AM5		
+25_2020	-	-	Cosmopolitan	AM5		
+218_2023	-	-	Cosmopolitan	AM5		
+152_2023	-	-	Cosmopolitan	AM5		
+30_2023	-	-	Cosmopolitan	AM5		
+234_2016	-	-	Cosmopolitan	AM5		
+240_2023	-	-	Cosmopolitan	AM5		
+435_2018	-	-	Cosmopolitan	AM5		
+236_2022	-	-	Cosmopolitan	AM5		
+149_2020	-	-	Cosmopolitan	AM5		
+225_2023	-	-	Cosmopolitan	AM5		
+22_2016	-	-	Cosmopolitan	AM5		
+297_2023	-	-	Cosmopolitan	AM5		
+24_2019	-	-	Cosmopolitan	AM5		
+321_2023	-	-	Cosmopolitan	AM5		
+9_2019	-	-	Cosmopolitan	AM5		
+183_2019	-	-	Cosmopolitan	AM5		
+699_2015	-	-	Cosmopolitan	AM5		
+40_2021	-	-	Cosmopolitan	AM5		
+348_2023	-	-	Cosmopolitan	AM5		
+560_2015	-	-	Cosmopolitan	AM5		
+375_2017	-	-	Cosmopolitan	AM5		
+107_2018	-	-	Cosmopolitan	AM5		
+29_2021	-	-	Cosmopolitan	AM5		
+266_2022	-	-	Cosmopolitan	AM5		
+468_2016	-	-	Cosmopolitan	AM5		
+219_2024	-	-	Cosmopolitan	AM5		
+75_2021	-	-	Cosmopolitan	AM5		
+1101787	-	-	Cosmopolitan	AM5		
+3553_2010	-	-	Cosmopolitan	AM5		
+147_2022	-	-	Cosmopolitan	AM5		

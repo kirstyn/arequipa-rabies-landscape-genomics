@@ -1,0 +1,5 @@
+"Cluster_or_Sequence","Nucleotide_diversity_SNPs","Mean_within_genetic_SNPs","Mean_distance_to_main_SNPs","Mean_distance_to_ped_SNPs","Mean_within_patristic","Patristic_to_main","Patristic_to_ped"
+"Main cluster",12.9,10.3,NA,NA,12,NA,NA
+"Pedregal cluster",7.7,8.6,NA,NA,3.2,NA,NA
+"219",NA,NA,160.9,186.2,NA,90.2,91.9
+"75",NA,NA,18.1,38.9,NA,36.3,32.5

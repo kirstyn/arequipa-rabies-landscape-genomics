@@ -1,0 +1,3 @@
+BF
+null_raster	NA
+X19K_20240101.20241231_R	3
