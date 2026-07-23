@@ -59,4 +59,4 @@ rsconnect/
 analysis/BEAST_runs/**/*.log
 
 # shapefiles
-raw_data/spatial/shapefiles/**
+#raw_data/spatial/shapefiles/**
