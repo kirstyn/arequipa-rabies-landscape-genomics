@@ -62,6 +62,6 @@ analysis/BEAST_runs/**/*.log
 #raw_data/spatial/shapefiles/**
 
 # big files
-raw_data/spatial/shapefiles/access_50k_acc_50k.tif
+raw_data/spatial/shapefiles/access_50k/acc_50k.tif
 raw_data/spatial/shapefiles/esri/19K*
 raw_data/spatial/shapefiles/world-pop/*
