@@ -1,0 +1,24 @@
+Trait,From,To,Posterior probability,Bayes factor,Support category,Mean Markov jumps
+District,ccolorado,yura,1,119631.39,Decisive,19.61
+Urbanicity,periurban,urban,1,11050.89,Decisive,11.93
+Urbanicity,urban,periurban,1,11050.89,Decisive,44.87
+River,north,south,1,11050.89,Decisive,6.28
+District,mmelgar,ccolorado,1,9957.1,Decisive,3.98
+District,ccolorado,cayma,0.99,1581.97,Decisive,9.24
+District,mmelgar,miraflores,0.99,1581.97,Decisive,3.9
+District,asa,jlbyr,0.99,1036.22,Decisive,4.69
+River,south,external,1,268.34,Decisive,0.5
+River,south,north,0.99,154.44,Decisive,2.13
+District,ccolorado,asa,0.91,142.7,Decisive,7.03
+District,asa,hunter,0.89,112.38,Decisive,2.79
+District,yura,ccolorado,0.81,57.29,Very strong,3.66
+District,asa,mmelgar,0.8,53.1,Very strong,3.79
+District,mollebaya,elpedregal,0.78,47.16,Very strong,0.77
+Urbanicity,periurban,external,0.97,41.61,Very strong,0.97
+District,yura,socabaya,0.59,18.87,Strong,1.75
+District,yura,paucarpata,0.57,17.77,Strong,0.98
+District,mmelgar,asa,0.57,17.33,Strong,1.32
+District,mmelgar,paucarpata,0.54,15.34,Strong,1.35
+District,ccolorado,uchumayo,0.47,11.68,Strong,0.57
+District,yura,hunter,0.47,11.56,Strong,0.99
+District,asa,paucarpata,0.46,11.26,Strong,1.41

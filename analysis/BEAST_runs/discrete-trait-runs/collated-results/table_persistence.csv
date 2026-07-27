@@ -1,0 +1,22 @@
+Trait,State,Markov reward (Years),Persistence (%)
+District,ccolorado,103.45,51.6
+District,mmelgar,27.42,13.7
+District,yura,26.51,13.2
+District,asa,14.14,7.1
+District,cayma,7.31,3.6
+District,socabaya,3.95,2
+District,jlbyr,3.59,1.8
+District,paucarpata,3.15,1.6
+District,characato,2.77,1.4
+District,miraflores,2.73,1.4
+District,mollebaya,1.81,0.9
+District,hunter,1.67,0.8
+District,uchumayo,1.17,0.6
+District,sachaca,0.59,0.3
+District,elpedregal,0.4,0.2
+River,north,136.7,69.5
+River,south,60.09,30.6
+River,external,0.34,0.2
+Urbanicity,urban,115.26,56.7
+Urbanicity,periurban,88.01,43.3
+Urbanicity,external,0.35,0.2
