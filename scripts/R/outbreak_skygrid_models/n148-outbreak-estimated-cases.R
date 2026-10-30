@@ -5,7 +5,7 @@
 # Date: 2025/2026
 # ==============================================================================
 
-
+library(here)
 source(here("scripts","R","global-packages.R"))
 
 # --- Load data ---
@@ -267,7 +267,21 @@ combined_plot <-
 
 combined_plot
 
-
+# or side by side
+combined_plot2 <-
+  (p_main | p2) +
+  plot_layout(
+    widths = c(1, 1),
+    guides = "collect"
+  ) +
+  plot_annotation(
+    tag_levels = "A"
+  ) &
+  theme(
+    plot.tag = element_text(size = 18, face = "bold"),
+    legend.position = "bottom",
+    plot.margin = margin(5, 5, 5, 5)
+  );combined_plot2
 # ==============================================================================
 # Save publication versions
 # ==============================================================================
@@ -275,11 +289,11 @@ combined_plot
 ggsave(
   filename = here(
     "figures",
-    "arequipa_outbreak_dynamics.pdf"
+    "arequipa_outbreak_dynamics2.pdf"
   ),
-  plot = combined_plot,
+  plot = combined_plot2,
   width = 8,
-  height = 9,
+  height = 4,
   units = "in",
   device = cairo_pdf
 )
@@ -288,11 +302,11 @@ ggsave(
 ggsave(
   filename = here(
     "figures",
-    "arequipa_outbreak_dynamics.png"
+    "arequipa_outbreak_dynamics2.png"
   ),
-  plot = combined_plot,
+  plot = combined_plot2,
   width = 8,
-  height = 9,
+  height = 4,
   units = "in",
   dpi = 600
 )

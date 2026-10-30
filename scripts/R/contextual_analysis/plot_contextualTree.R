@@ -4,11 +4,11 @@
 # Author: Kirstyn Brunker
 # Date: 2025/2026
 # ==============================================================================
-
+library(here)
 source(here("scripts","R","global-packages.R"))
 
 # source contextual map
-source("scripts/R/plot_contextual_map.R")
+source("scripts/R/contextual_analysis/plot_contextual_map.R")
 
 # Import tree
 tree=read.newick(here("analysis","contextual_analysis","la_tree_apr82026","redcap_plus_la_plus_outgroup_stripped_outlierBranchesRemoved.treefile"))
@@ -103,30 +103,82 @@ country_plot <-   gplot+
   # )
 
 ######################
-
-##expand the AM5 clade 
-MRCA(root_tree, annot$taxon[gplot +
-  geom_nodepoint(
-    fill = "lightgrey",
-    colour = "black",
-    shape = 23,
-    alpha = 0.7,
-    size = 1.2,
-    aes(subset = !is.na(as.numeric(label)) & as.numeric(label) > 0.8)
-  ) +
-  new_scale_fill() +
-  geom_tippoint(
-    aes(
-      fill = EPA_minor_clade,
-      shape = data_source == "Our_study"
-    ),
-    size = 2,
-    color = "grey30",
-    alpha = 0.8
-  ) +
-  scale_shape_manual(values = c(`FALSE` = 21, `TRUE` = 24)) +
-  colScale2 +
-  guides(fill = guide_legend(ncol = 2)) & annot$taxon != "219_2024" & annot$taxon != "52_2021"])
+ ######################
+ ## Expand the AM5 clade
+ 
+ # Exclude specific taxa
+ excluded_taxa <- c("219_2024", "52_2021")
+ 
+ # Select AM5 tips that are present in the tree
+ am5_taxa <- annot$locus[
+   annot$EPA_minor_clade == "AM5" &
+     !annot$locus %in% excluded_taxa &
+     annot$locus %in% root_tree$tip.label
+ ]
+ 
+ # Check that AM5 tips were identified
+ message("Number of AM5 tips: ", length(am5_taxa))
+ 
+ if (length(am5_taxa) < 2) {
+   stop(
+     "Fewer than two AM5 tips matched the tree. Check the AM5 label ",
+     "using table(annot$EPA_minor_clade, useNA = 'ifany')."
+   )
+ }
+ 
+ # Find the MRCA of the AM5 tips
+ am5_mrca <- MRCA(root_tree, am5_taxa)
+ 
+ # Extract the subtree descending from the MRCA
+ am5_tree <- ape::extract.clade(root_tree, am5_mrca)
+ 
+ # Remove excluded taxa if still present
+ am5_tree <- ape::drop.tip(
+   am5_tree,
+   intersect(excluded_taxa, am5_tree$tip.label)
+ )
+ 
+ # Retain annotations for tips in the extracted subtree
+ am5_annot <- annot[
+   annot$locus %in% am5_tree$tip.label,
+ ]
+ 
+ # Plot the AM5 subtree
+ am5_plot <- ggtree(
+   am5_tree,
+   ladderize = TRUE,
+   size = 0.2,
+   col = "darkgrey"
+ ) %<+% am5_annot +
+   geom_nodepoint(
+     fill = "lightgrey",
+     colour = "black",
+     shape = 23,
+     alpha = 0.7,
+     size = 1.2,
+     aes(
+       subset = !is.na(suppressWarnings(as.numeric(label))) &
+         suppressWarnings(as.numeric(label)) > 0.8
+     )
+   ) +
+   new_scale_fill() +
+   geom_tippoint(
+     aes(
+       fill = EPA_minor_clade,
+       shape = data_source == "Our_study"
+     ),
+     size = 2,
+     colour = "grey30",
+     alpha = 0.8
+   ) +
+   scale_shape_manual(
+     values = c(`FALSE` = 21, `TRUE` = 24)
+   ) +
+   colScale2 +
+   guides(fill = guide_legend(ncol = 2)) +
+   coord_cartesian(clip = "off")
+ 
+ am5_plot
  
   MRCA(root_tree, annot$taxon[annot$minor_clade =="AM5"])
   mrca=1734

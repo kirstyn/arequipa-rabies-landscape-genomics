@@ -5,9 +5,10 @@
 # Date: 2025/2026
 # ==============================================================================
 
+library(here)
 source(here("scripts","R","global-packages.R"))
 
-source(here("scripts/R/merged_summary_function.R"))
+source(here("scripts/R/discrete_trait_phylogeo/merged_summary_function.R"))
 
 jumps=read.csv(here("analysis","BEAST_runs","discrete-trait-runs","district","district_collect_times.csv"))
 bf= read.csv(here("analysis","BEAST_runs","discrete-trait-runs","district","district_Bayes.factor.test.result.csv"))
@@ -108,7 +109,7 @@ tree_plot <- ggtree(tree, mrsd = "2025-03-08", aes(color = district_pretty)) +
     breaks = seq(2013, 2025, by = 3)
   ) +
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1, size = 16),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
     axis.title = element_text(size = 14),
     plot.margin = margin(t = 5, r = 5, b = 5, l = 30),
     legend.position = "none"
@@ -320,7 +321,7 @@ network_plot <- ggraph(lay) +
     range = c(4, 12),
     breaks = c(0.2, 30, 60),
     labels = c("0.2%", "30%", "60%"),
-    name = "Persistence\n(% time)"
+    name = "Time in district\n(%)"
   ) +
   theme_void() +
   theme(
@@ -395,9 +396,13 @@ mj_legend <- data.frame(
   line_width = c(0.5, 1, 1.5, 2, 2.5)
 )
 
+#add chili river
+river <- readRDS("path/to/chili_river.rds")
+
 map_network_plot <- ggplot() +
   geom_sf(data = arequipa_city, fill = "grey95", color = "grey40") +
-  
+  geom_sf(data = river, colour = "#4DB3E6", linewidth = 0.7,
+          inherit.aes = FALSE, show.legend = FALSE) +
   #geom_sf(data = cases_sf, aes(color = group_district), size = 2.5, alpha=0.5) +
   # Centroid points sized by reward_percent
   geom_sf(
@@ -434,7 +439,7 @@ map_network_plot <- ggplot() +
   ) +
   scale_size_continuous(
     range = c(1, 20),               # size range for centroid points
-    name = "Persistence (%)",
+    name = "Time in district (%)",
     breaks = c(1, 10, 50)
   ) +
   scale_linetype_manual(
@@ -533,6 +538,8 @@ plot(combined_legend)
 
 ## Final plot
 
+# add chili river
+map_network_plot_no_legend 
 # Combine with relative width
 
 combined_plot <- tree_plot | map_network_plot_no_legend
@@ -542,18 +549,18 @@ combined_plot
 
 
 combined_plot
-# ggsave(
-#   filename = here("figures","district-discrete-mappedJumps-BFover50.pdf"),
-#   plot = combined_plot,
-#   width = 6,
-#   height = 5,
-#   dpi = 600
-# )
-# ggsave(
-#   filename = here("figures","district-discrete-mappedJumps-BFover50-rewardlegend.pdf"),
-#   plot = reward_legend,
-#   width = 6, height = 5, dpi = 600
-# )
+ggsave(
+  filename = here("figures","district-discrete-mappedJumps-BFover50.pdf"),
+  plot = combined_plot,
+  width = 6,
+  height = 5,
+  dpi = 600
+)
+ggsave(
+  filename = here("figures","district-discrete-mappedJumps-BFover50-rewardlegend.pdf"),
+  plot = reward_legend,
+  width = 6, height = 5, dpi = 600
+)
 
 ggsave(
   filename = here("figures","district-discrete-mappedJumps-BFover50-combinedlegend.pdf"),

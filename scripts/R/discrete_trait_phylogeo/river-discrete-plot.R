@@ -10,7 +10,7 @@ source(here("scripts","R","global-packages.R"))
 # -----------------------------
 # 1. Load data
 # -----------------------------
-river_summary <- read.csv(here("analysis","BEAST_runs","discrete-trait-runs","river-areas","merged_summary_with_avg_jumps.csv"))
+river_summary <- read.csv(here("analysis","BEAST_runs","discrete-trait-runs","river-areas","river_merged_summary_with_avg_jumps.csv"))
 
 # downsampled
 #river_summary <- read.csv(here("analysis","BEAST_runs","discrete-trait-runs","river-areas","river-downsampled","downsampled_river_merged_summary_with_avg_jumps.csv"))
