@@ -1,5 +1,5 @@
 # One Health genomic surveillance reveals structured urban rabies transmission and major surveillance gaps
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21625618.svg)](https://doi.org/10.5281/zenodo.21625618)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21625618.svg)](https://doi.org/10.5281/zenodo.23808245) 
  
 This repository contains the analysis code, processed data, and supporting materials accompanying the preprint:
 
