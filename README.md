@@ -22,7 +22,7 @@ Large intermediate files (e.g. BEAST outputs, alignments, and GIS source files) 
 
 ## Data availability
 
-Consensus genome sequences generated in this study will be deposited in GenBank following peer review. Accession numbers will be added once available.
+Consensus genome sequences generated in this study are available on NCBI GenBank under BioProject: PRJNA1484877.
 
 ## Citation
 
