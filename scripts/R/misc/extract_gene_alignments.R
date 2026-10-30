@@ -5,7 +5,7 @@
 # Author: Kirstyn Brunker
 # Date: 2025/2026
 # ==============================================================================
-
+library(here)
 source(here("scripts","R","global-packages.R"))
 #extract partitions for beast
 library(seqinr)

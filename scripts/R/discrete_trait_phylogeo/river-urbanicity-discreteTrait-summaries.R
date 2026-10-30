@@ -1,5 +1,5 @@
 library(tidyverse)
-
+library(here)
 source("scripts/R/discrete_trait_phylogeo/river-discrete-plot.R")
 source("scripts/R/discrete_trait_phylogeo/urbanicity-discrete-plot.R")
 
@@ -32,7 +32,9 @@ summary_plot <- ggplot() +
   geom_col(data = bars, aes(x = state, y = pct),
            fill = "grey60", width = 0.6, colour = "white") +
   geom_segment(data = jumps,
-               aes(x = x, xend = xend, y = y, yend = y, linewidth = n),
+               # aes(x = x, xend = xend, y = y, yend = y, linewidth = n), # for arrow thickness sized
+               aes(x = x, xend = xend, y = y, yend = y),
+               linewidth=1,
                arrow = arrow(length = unit(0.18, "cm"), type = "closed"),
                lineend = "round", colour = "grey20") +
   geom_text(data = jumps,

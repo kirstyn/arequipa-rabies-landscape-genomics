@@ -401,7 +401,7 @@ river <- readRDS("path/to/chili_river.rds")
 
 map_network_plot <- ggplot() +
   geom_sf(data = arequipa_city, fill = "grey95", color = "grey40") +
-  geom_sf(data = river, colour = "#4DB3E6", linewidth = 0.7,
+  geom_sf(data = river, colour = "#4DB3E6", linewidth = 0.8,
           inherit.aes = FALSE, show.legend = FALSE) +
   #geom_sf(data = cases_sf, aes(color = group_district), size = 2.5, alpha=0.5) +
   # Centroid points sized by reward_percent
@@ -562,7 +562,7 @@ ggsave(
   width = 6, height = 5, dpi = 600
 )
 
-ggsave(
+library(here)ggsave(
   filename = here("figures","district-discrete-mappedJumps-BFover50-combinedlegend.pdf"),
   plot = combined_legend,
   width = 4, height = 4.5, dpi = 600
